@@ -1,0 +1,193 @@
+/* GENEL */
+* { 
+    box-sizing: border-box; 
+    margin: 0; 
+    padding: 0; 
+}
+
+body { 
+    font-family: 'Segoe UI', Arial, sans-serif; 
+    background: #f5f7fa; 
+    color: #222; 
+    min-height: 100vh; 
+    display: flex; 
+    flex-direction: column; 
+}
+
+/* HEADER */
+header { 
+    background: #005b96; 
+    color: white; 
+    text-align: center; 
+    padding: 2rem 1rem; 
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2); 
+}
+
+header h1 { 
+    font-size: 2.2rem; 
+    letter-spacing: 0.5px; 
+}
+
+header p { 
+    font-size: 1.1rem; 
+    margin-top: 0.5rem; 
+    opacity: 0.9; 
+}
+
+/* ANA İÇERİK */
+main { 
+    flex: 1; 
+    padding: 2rem 1rem; 
+    max-width: 1100px; 
+    margin: 0 auto; 
+}
+
+.intro { 
+    text-align: center; 
+    margin-bottom: 2rem; 
+}
+
+.intro h2 { 
+    font-size: 1.6rem; 
+    color: #005b96; 
+    margin-bottom: 0.5rem; 
+}
+
+.intro p { 
+    color: #555; 
+}
+
+/* KONTROLLER */
+.controls { 
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 1rem; 
+    margin-bottom: 2rem; 
+}
+
+.controls select { 
+    padding: 0.5rem 1rem; 
+    border-radius: 6px; 
+    border: 1px solid #ccc; 
+    font-size: 1rem; 
+}
+
+/* ÜLKE KARTLARI */
+.country-list { 
+    display: grid; 
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 2rem; 
+    align-items: start; 
+}
+
+.country-card { 
+    background: white; 
+    border-radius: 12px; 
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+    padding: 1rem; 
+    text-align: center; 
+    transition: transform 0.3s, box-shadow 0.3s; 
+    cursor: pointer; 
+}
+
+.country-card:hover { 
+    transform: translateY(-5px); 
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2); 
+}
+
+.country-card img { 
+    width: 100px; 
+    height: 60px; 
+    object-fit: contain; 
+    border-radius: 6px; 
+    margin-bottom: 0.5rem;
+    border: 1px solid rgba(0,0,0,0.3);
+}
+
+.country-card h3 { 
+    font-size: 1.1rem; 
+    margin: 0.5rem 0; 
+}
+
+/* BUTON */
+.btn {
+    display: inline-block; 
+    margin-top: 0.5rem; 
+    background: #0077cc; 
+    color: white; 
+    padding: 0.6rem 1.2rem; 
+    text-decoration: none; 
+    border-radius: 8px; 
+    font-weight: 500; 
+    transition: background 0.3s; 
+}
+
+.btn:hover {
+    background: #004f82; 
+}
+
+/* FOOTER */
+footer { 
+    background: #005b96; 
+    color: white; 
+    text-align: center; 
+    padding: 1rem; 
+    font-size: 0.9rem; 
+    margin-top: auto; 
+}
+
+/* LIGHTBOX */
+#lightbox { 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    background: rgba(0,0,0,0.8); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    opacity: 0; 
+    pointer-events: none; 
+    transition: opacity 0.3s; 
+}
+
+#lightbox.show { 
+    opacity: 1; 
+    pointer-events: auto; 
+}
+
+#lightbox img { 
+    max-width: 90%; 
+    max-height: 90%; 
+    border-radius: 8px; 
+}
+
+#close { 
+    position: absolute; 
+    top: 20px; 
+    right: 30px; 
+    font-size: 2rem; 
+    color: white; 
+    cursor: pointer; 
+}
+
+/* RESPONSIVE */
+@media (max-width: 1200px) { 
+    .country-list { 
+        grid-template-columns: repeat(3, 1fr); 
+    } 
+}
+
+@media (max-width: 992px) { 
+    .country-list { 
+        grid-template-columns: repeat(2, 1fr); 
+    } 
+}
+
+@media (max-width: 600px) { 
+    .country-list { 
+        grid-template-columns: 1fr; 
+    } 
+}
