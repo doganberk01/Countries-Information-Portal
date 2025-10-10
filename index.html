@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ülkeler Bilgi Portalı</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Ülkeler Bilgi Portalı</h1>
+  <p>Genel ve ekonomik bilgiler</p>
+</header>
+
+<main>
+  <section class="intro">
+    <h2>Ülke Listesi</h2>
+    <p>Filtreleyin veya sıralayın:</p>
+  </section>
+
+  <section class="controls">
+    <select id="sort-select">
+      <option value="name-asc">İsme Göre A-Z</option>
+      <option value="name-desc">İsme Göre Z-A</option>
+      <option value="area-desc">Yüzölçümüne Göre Büyükten Küçüğe</option>
+      <option value="area-asc">Yüzölçümüne Göre Küçükten Büyüğe</option>
+      <option value="gdp-desc">Ekonomiye Göre Büyükten Küçüğe</option>
+      <option value="gdp-asc">Ekonomiye Göre Küçükten Büyüğe</option>
+      <option value="population-desc">Nüfusa Göre Büyükten Küçüğe</option>
+      <option value="population-asc">Nüfusa Göre Küçükten Büyüğe</option>
+    </select>
+
+    <select id="continent-select">
+      <option value="all">Tüm Kıtalar</option>
+      <option value="asya">Asya</option>
+      <option value="avrupa">Avrupa</option>
+      <option value="amerika">Amerika</option>
+      <option value="afrika">Afrika</option>
+    </select>
+  </section>
+
+  <section class="country-list" id="country-list">
+    <!-- JS ile JSON’dan yüklenecek -->
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Ülkeler Bilgi Portalı</p>
+</footer>
+
+<div id="lightbox">
+  <span id="close">&times;</span>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

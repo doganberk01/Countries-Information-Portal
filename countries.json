@@ -1,0 +1,1885 @@
+[
+  {
+    "name": "Türkiye",
+    "continent": "Avrupa/Asya",
+    "capital": "Ankara",
+    "area": "783.562 km²",
+    "population": "87.744.000",
+    "flag": "../images/flags/turkiye-flag.png",
+    "map": "../images/maps/turkiye-map.png",
+    "generalInfo": "Türkiye, hem Asya hem de Avrupa kıtalarında yer alan üniter bir cumhuriyettir. Başkenti Ankara’dır. Yaklaşık 86 milyon nüfusa sahiptir. Resmî dili Türkçe’dir ve para birimi Türk Lirası (TRY)’dır. Türkiye, NATO ve G20 üyesidir ve coğrafi konumu nedeniyle stratejik öneme sahiptir.",
+    "mapInfo": "Türkiye, kuzeyde Karadeniz, batıda Ege Denizi, güneyde Akdeniz ile çevrilidir. Komşuları kuzeydoğuda Gürcistan, doğuda Ermenistan, İran ve Azerbaycan, güneydoğuda Irak ve Suriye, batıda Yunanistan ve Bulgaristan’dır. Yüzölçümü yaklaşık 783.562 km²’dir. Ülke coğrafyası dağlık, plato ve kıyı bölgelerinden oluşur; önemli nehirleri Fırat, Dicle ve Sakarya’dır.",
+    "flagMeaning": "Türkiye bayrağı kırmızı zemin üzerinde beyaz bir ay ve yıldızdan oluşur. Kırmızı cesareti ve bağımsızlık mücadelesini, beyaz ay ve yıldız ise İslam’ı ve ulusal birliği simgeler. Bayrak modern Türkiye Cumhuriyeti’nin sembolü olarak 1936 yılında resmî olarak kabul edilmiştir.",
+    "economyDesc": "Türkiye ekonomisi çeşitlenmiş ve gelişmekte olan bir yapıya sahiptir. Tarım, sanayi ve hizmet sektörleri ekonominin temelini oluşturur. Tarımda buğday, arpa, pamuk ve meyve üretimi öne çıkar. Sanayi sektöründe otomotiv, tekstil, gıda işleme, makine ve kimya endüstrisi önemlidir. Hizmet sektörü turizm, finans ve lojistik alanlarında büyüktür. Türkiye, stratejik konumu ve genç nüfusu ile bölgesel bir ekonomik güçtür.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 180.4,
+        "import": 210.0
+      },
+      {
+        "year": 2020,
+        "export": 169.6,
+        "import": 219.5
+      },
+      {
+        "year": 2021,
+        "export": 225.4,
+        "import": 389.1
+      },
+      {
+        "year": 2022,
+        "export": 254.2,
+        "import": 361.5
+      },
+      {
+        "year": 2023,
+        "export": 255.6,
+        "import": 361.9
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Türkiye"
+      }
+    ],
+    "page": "turkiye.html"
+  },
+
+  {
+    "name": "Almanya",
+    "continent": "Avrupa",
+    "capital": "Berlin",
+    "area": "357.022 km²",
+    "population": "84.000.000",
+    "flag": "../images/flags/almanya-flag.png",
+    "map": "../images/maps/almanya-map.png",
+    "generalInfo": "Almanya, Orta Avrupa’da federal bir cumhuriyettir. 357.021 km² yüzölçümüyle Avrupa'nın en büyük ülkelerinden biridir ve başkenti Berlin'dir. 16 eyaletten oluşan ülke, Avrupa Birliği’nin en büyük ekonomisine sahip olup sanayi üretimi, yüksek teknoloji ve ihracat alanlarında güçlü bir aktördür.",
+    "mapInfo": "Kuzeyde Kuzey ve Baltık Denizleri’ne kıyısı vardır. Doğusunda Polonya ve Çekya, güneyinde Avusturya ve İsviçre, batısında Fransa, Lüksemburg, Belçika ve Hollanda ile kara sınırları bulunur. Bu konum, Almanya’yı Avrupa’nın merkezinde stratejik bir ulaşım ve ticaret hub’ı haline getirir.",
+    "flagMeaning": "Almanya bayrağı yatay üç eşit şeritten oluşur: siyah, kırmızı ve altın sarısı. Siyah renk halkın birlikteliğini, kırmızı renk özgürlük mücadelesini, altın sarısı ise özgürlük ve eşitlik arzusunu simgeler. Bu renkler 1848-1849 yıllarındaki devrimci hareketle ve ulusal birliği temsil eder.",
+    "economyDesc": "Almanya’nın ekonomisi dünyanın en büyük dördüncü ekonomisidir. Öne çıkan sektörler otomotiv, makine, kimya ve elektronik olup, Stuttgart merkezli Mercedes-Benz ve Porsche, Münih merkezli BMW gibi dünya çapında tanınan markalar ekonomiyi güçlendirir. Ayrıca Siemens ve BASF gibi şirketler makine ve kimya alanlarında lider konumdadır. 2024 yılı itibarıyla ihracat 1,66 trilyon dolar civarındadır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 1425.0,
+        "import": 1181.0
+      },
+      {
+        "year": 2020,
+        "export": 1337.0,
+        "import": 1072.0
+      },
+      {
+        "year": 2021,
+        "export": 1618.0,
+        "import": 1384.0
+      },
+      {
+        "year": 2022,
+        "export": 1798.0,
+        "import": 1593.0
+      },
+      {
+        "year": 2023,
+        "export": 1830.0,
+        "import": 1610.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Almanya"
+      }
+    ],
+    "page": "almanya.html"
+  },
+  {
+    "name": "Fransa",
+    "continent": "Avrupa",
+    "capital": "Paris",
+    "area": "551.695 km²",
+    "population": "66.650.000",
+    "flag": "../images/flags/fransa-flag.png",
+    "map": "../images/maps/fransa-map.png",
+      "generalInfo": "Fransa, Batı Avrupa’da üniter bir cumhuriyettir. Başkenti Paris olup resmi dili Fransızca’dır. Yaklaşık 66–68 milyon nüfusu vardır ve kişi başına düşen yaşam standardı, sağlık ve eğitim göstergeleri bakımından dünyada üst sıralarda yer alır. Cumhurbaşkanlığı sistemiyle yönetilen ülkede yasama yetkisi iki meclise (Meclis ve Senato) aittir. Para birimi Euro’dur.",
+      "mapInfo": "Fransa, Batı Avrupa’da yer alır; kuzeybatısında İngiltere (Manş Denizi ile), kuzeyinde Belçika ve Lüksemburg, doğusunda Almanya, İsviçre ve İtalya, güneyinde İspanya ve Andorra ile sınır komşusudur; güneydoğusunda Akdeniz’e, batısında Atlantik Okyanusu’na kıyısı vardır. Metropol Fransa’nın yüzölçümü yaklaşık 547.000 km²’dir. Ayrıca denizaşırı bölgeleri de vardır.",
+      "flagMeaning": "Fransa bayrağı ‘Tricolore’ adıyla bilinir; dikey olarak mavi – beyaz – kırmızı şeritlerden oluşur. Mavi ve kırmızı Paris’in renkleridir, beyaz ise eski krallık rengidir. 1789 Fransız Devrimi sırasında bu üç renk halk, şehir ve monarşi simgeleri olarak birleşmiş ve ulusal bayrak hâline gelmiştir. Bu renkler; özgürlük, eşitlik ve kardeşlik değerlerini temsil eder.",
+      "economyDesc": "Fransa ekonomisi tarım, sanayi ve hizmetler alanlarında dengeli bir yapıya sahiptir. Tarım sektörü Avrupa Birliği içinde büyük öneme sahiptir; buğday, mısır, et ve şarap üretimi öne çıkar. Sanayi sektöründe otomotiv, kimya, elektronik, ilaç, savunma ve havacılık endüstrileri güçlüdür; otomotiv markaları Peugeot, Renault; havacılıkta Airbus gibi büyük oyuncular vardır. Hizmet sektörü ekonominin büyük kısmını oluşturur; turizm, finans, telekomünikasyon ve lüks mallar ihracatı önemli gelir kaynaklarıdır. Ayrıca Fransa’da araştırma-geliştirme harcamaları yüksektir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 532.0,
+        "import": 618.0
+      },
+      {
+        "year": 2020,
+        "export": 468.0,
+        "import": 556.0
+      },
+      {
+        "year": 2021,
+        "export": 566.0,
+        "import": 658.0
+      },
+      {
+        "year": 2022,
+        "export": 607.0,
+        "import": 701.0
+      },
+      {
+        "year": 2023,
+        "export": 615.0,
+        "import": 710.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Fransa"
+      }
+    ],
+    "page": "fransa.html"
+  },
+  {
+    "name": "İtalya",
+    "continent": "Avrupa",
+    "capital": "Roma",
+    "area": "301.340 km²",
+    "population": "59.146.000",
+    "flag": "../images/flags/italya-flag.png",
+    "map": "../images/maps/italya-map.png",
+    "generalInfo": "İtalya, Güney Avrupa’da bir üniter parlamenter cumhuriyettir. Resmî adı Italiano Cumhuriyeti (Repubblica Italiana)’dır. Başkenti Roma’dır. Nüfusu yaklaşık 59–60 milyon civarındadır. Birleşme süreci 19. yüzyılda tamamlanmış; 1946’da cumhuriyet ilan edilmiştir. Resmî dil İtalyanca’dır. Para birimi Euro’dur. Ülke Avrupa Birliği, Nato, G7, G20 gibi uluslararası kuruluşların üyesidir.",
+    "mapInfo": "İtalya, Güney Avrupa’da Akdeniz’e uzanan yarımadadır; “çizme” şeklinde bir coğrafi yapısı vardır. Kuzeyde Fransa, İsviçre, Avusturya ve Slovenya ile kara sınırları; güney, doğu ve batısında Akdeniz denizleriyle çevrilidir. Ayrıca Sicilya ve Sardinya gibi büyük adalar da İtalya’nın parçasıdır.",
+    "flagMeaning": "İtalya bayrağı dikey üç eşit şeritten oluşur: yeşil (direk tarafında), beyaz ve kırmızı. Yeşil, umudu; beyaz, inancı; kırmızı ise bağımsızlık mücadelesinde verilen fedakârlıkları ve birlik ruhunu sembolize eder. Bayrağın ilk versiyonları Fransız Devrimi’nin etkisiyle ortaya çıkmış; 1796–1797 yıllarında kullanılan Cispadane ve Cisalpine cumhuriyetleri bu trikolörü benimsemiştir.",
+    "economyDesc": "İtalya ekonomisi sanayileşmiş ve çeşitlenmiş bir yapıya sahiptir; kuzey bölgeleri sanayide, teknoloji ve imalat sektöründe gelişmiştir; güney bölgeleri daha çok tarıma ve daha düşük gelişmiş altyapıya sahiptir. İhracat açısından güçlü, özellikle lüks otomobil, moda, makine ve kimya ürünleri öne çıkar. Turizm de ülke ekonomisinin önemli bir bileşenidir. İtalya’nın bazı yapısal sorunları vardır: kamu borcu yüksek, işgücü piyasasında katılık, yargı sisteminde gecikmeler gibi.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 479.0,
+        "import": 482.0
+      },
+      {
+        "year": 2020,
+        "export": 444.0,
+        "import": 450.0
+      },
+      {
+        "year": 2021,
+        "export": 525.0,
+        "import": 530.0
+      },
+      {
+        "year": 2022,
+        "export": 555.0,
+        "import": 562.0
+      },
+      {
+        "year": 2023,
+        "export": 562.0,
+        "import": 570.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/İtalya"
+      }
+    ],
+    "page": "italya.html"
+  },
+  {
+    "name": "İspanya",
+    "continent": "Avrupa",
+    "capital": "Madrid",
+    "area": "505.990 km²",
+    "population": "49.720.000",
+    "flag": "../images/flags/ispanya-flag.png",
+    "map": "../images/maps/ispanya-map.png",
+    "generalInfo": "İspanya (Kingdom of Spain), Güneybatı Avrupa’da yer alan anayasal monarşiyle yönetilen bir ülkedir. Başkenti Madrid’dir. Yaklaşık 47-50 milyon nüfusa sahiptir. Resmî dil Kastilya İspanyolcası’dır; Baskça, Katalanca, Galician ve Aranese gibi bölgelerde konuşulan başka resmi diller de vardır. Para birimi Euro’dur. Ülke Avrupa Birliği, NATO ve diğer uluslararası kurumların üyesidir.",
+    "mapInfo": "İspanya, İber Yarımadası’nın büyük bölümünü kaplar; batısında Portekiz, kuzeydoğusunda Fransa ve Andorra ile kara sınırları; güneydoğusunda Cebelitarık Boğazı üzerinden Kuzey Afrika’ya (Fas) deniz sınırı bulunur. Doğusunda Akdeniz, kuzeyinde Biscay Körfezi (Kuzey Atlantik), güneyinde Akdeniz ve Atlas Okyanusu kıyıları vardır. Yüzölçümü yaklaşık 505.990 km²’dir.",
+    "flagMeaning": "İspanya bayrağı yatay üç şeritten oluşur: kırmızı-sarı-kırmızı. Ortadaki sarı şeridin genişliği diğerlerine göre iki kat daha fazladır ve bu sarı şeridin ortasında devlet armasını barındırır. Kırmızı ve sarı renkler tarihsel olarak eski İspanyol krallıklarına, özellikle Kastilya, Leon, Aragon ve Navarra gibi bölgelerin mirasına dayanmaktadır. Arma içinde Granada (nar meyvesi) simgesi, sütunlar ve \"Plus Ultra\" sloganı “ötesine” vurgusuyla İspanya’nın keşif tarihi ve denizaşırı bağlantılarına referans verir.",
+    "economyDesc": "İspanya ekonomisi tarım, sanayi ve hizmetler alanlarında çeşitlenmiş güçlü bir yapıya sahiptir. Hizmet sektörü GSYH’nın yaklaşık %68-70’ini oluşturur; bunun içinde turizm ülkenin önemli gelir kaynaklarından biridir. Tarım; zeytinyağı, üzüm (şarap), narenciye, sebze ve mantar gibi ürünler öne çıkar; İspanya dünya genelinde en büyük zeytinyağı üreticilerindendir. Sanayi sektöründe gıda işleme, otomotiv, kimya, tekstil ve seramik gibi ürünler önemli konumdadır. Ayrıca dış ticaret, altyapı, hizmet ihracatı ve yenilenebilir enerji de büyüyen alanlardır. Rakamsal olarak tarım GSYH’nın yaklaşık %2.5, sanayi %20-yani biraz altı üstü- ve hizmet sektörü yaklaşık %68’e yakın paya sahiptir. İstihdam dağılımı da buna paraleldir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 325.0,
+        "import": 355.0
+      },
+      {
+        "year": 2020,
+        "export": 290.0,
+        "import": 320.0
+      },
+      {
+        "year": 2021,
+        "export": 345.0,
+        "import": 380.0
+      },
+      {
+        "year": 2022,
+        "export": 375.0,
+        "import": 410.0
+      },
+      {
+        "year": 2023,
+        "export": 380.0,
+        "import": 420.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/İspanya"
+      }
+    ],
+    "page": "ispanya.html"
+  },
+  {
+    "name": "İngiltere",
+    "continent": "Avrupa",
+    "capital": "Londra",
+    "area": "130.279 km²",
+    "population": "69.551.000",
+    "flag": "../images/flags/ingiltere-flag.png",
+    "map": "../images/maps/ingiltere-map.png",
+    "generalInfo": "İngiltere, Avrupa’nın kuzeybatısında yer alan Büyük Britanya adasının güney kısmını kaplayan bir ülkedir. Birleşik Krallık’ı oluşturan dört ülkeden en büyüğüdür. Başkenti Londra’dır. Yaklaşık 56 milyon nüfusa sahiptir ve ülkenin idari dili İngilizce’dir. Tarih boyunca sanayi devriminin doğduğu yer olarak kabul edilir; bilim, kültür, sanat ve ekonomi alanlarında küresel etkisi büyüktür.",
+    "mapInfo": "İngiltere, kuzeyde İskoçya, batıda Galler ile kara sınırına sahiptir; doğusunda Kuzey Denizi, güneyinde Manş Denizi bulunur. Manş Denizi’nin karşısında Fransa yer alır. Ülke çok sayıda nehir ve alçak tepelerle kaplıdır; en uzun nehri Thames’tir. Yüzölçümü yaklaşık 130.000 km²’dir.",
+    "flagMeaning": "İngiltere bayrağı, beyaz zemin üzerine kırmızı haçtan oluşur. Bu haç, İngiltere’nin koruyucu azizi olan Aziz George’un (Saint George) haçıdır. Aziz George Haçı, 12. yüzyıldan itibaren İngiliz kimliğini temsil etmiş ve sonrasında Birleşik Krallık bayrağında da temel unsur olarak yer almıştır. Bayrak, cesaret, sadakat ve inancı simgeler.",
+    "economyDesc": "İngiltere, Birleşik Krallık ekonomisinin merkezidir ve ülke ekonomisinin büyük kısmını oluşturur. Londra dünyanın önde gelen finans merkezlerinden biridir. Ekonomi ağırlıklı olarak hizmet sektörüne dayanır; bankacılık, finans, turizm, eğitim, medya ve teknoloji öne çıkar. İmalat sanayi hâlâ güçlüdür; otomotiv, ilaç, havacılık ve mühendislik ürünleri ihraç edilir. Tarım, toplam üretimin küçük bir kısmını oluşturur ancak verimlidir. İngiltere, Ar-Ge yatırımları ve yenilikçi girişim ekosistemiyle Avrupa’nın en gelişmiş ekonomilerinden biridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 500.0,
+        "import": 620.0
+      },
+      {
+        "year": 2020,
+        "export": 450.0,
+        "import": 580.0
+      },
+      {
+        "year": 2021,
+        "export": 520.0,
+        "import": 650.0
+      },
+      {
+        "year": 2022,
+        "export": 540.0,
+        "import": 680.0
+      },
+      {
+        "year": 2023,
+        "export": 550.0,
+        "import": 690.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/İngiltere"
+      }
+    ],
+    "page": "ingiltere.html"
+  },
+  {
+    "name": "Yunanistan",
+    "continent": "Avrupa",
+    "capital": "Atina",
+    "area": "131.957 km²",
+    "population": "9.908.000",
+    "flag": "../images/flags/yunanistan-flag.png",
+    "map": "../images/maps/yunanistan-map.png",
+    "generalInfo": "Yunanistan, Güneydoğu Avrupa’da, Balkan Yarımadası’nın güneyinde yer alan parlamenter bir cumhuriyettir. Başkenti Atina’dır. Yaklaşık 10,3 milyon nüfusa sahiptir. Resmî dili Yunanca, para birimi Euro’dur. Antik Yunan uygarlığıyla Batı felsefesi, sanat, bilim ve demokrasiye yön vermiştir. 1981’den beri Avrupa Birliği üyesidir ve NATO, Birleşmiş Milletler gibi kuruluşlarda aktif rol oynamaktadır.",
+    "mapInfo": "Yunanistan kuzeyde Arnavutluk, Kuzey Makedonya ve Bulgaristan; doğuda Türkiye; batıda İyon Denizi; güneyde Akdeniz ile çevrilidir. Yaklaşık 2000 ada ve adacıktan oluşur; en büyük adaları Girit, Rodos, Midilli ve Korfu’dur. Yüzölçümü 131.957 km²’dir ve coğrafyası dağlıktır. En yüksek noktası 2.918 metre ile Olimpos Dağı’dır. Akdeniz iklimi hâkimdir.",
+    "flagMeaning": "Yunanistan bayrağı mavi ve beyaz renklerden oluşur. Bayrakta dokuz yatay şerit vardır; mavi renk denizi ve gökyüzünü, beyaz renk saflığı ve özgürlüğü temsil eder. Sol üst köşede yer alan beyaz haç, Yunan Ortodoks Hristiyanlığını simgeler. Dokuz şerit, bağımsızlık mücadelesinde kullanılan ‘Eleftheria i Thanatos’ (Özgürlük ya da Ölüm) sloganının dokuz hecesini temsil eder.",
+    "economyDesc": "Yunanistan ekonomisi ağırlıklı olarak hizmet sektörüne dayanır; turizm ve deniz taşımacılığı temel gelir kaynaklarıdır. Turizm, GSYH’nin yaklaşık %20’sini oluşturur. Sanayi sektöründe gıda işleme, tekstil, kimya, metal işleme ve inşaat malzemeleri ön plandadır. Tarımda zeytin, üzüm, narenciye, pamuk ve tütün yetiştirilir. 2009 ekonomik krizinden sonra yapılan reformlarla toparlanma sürecine girilmiş, son yıllarda yenilenebilir enerji, lojistik ve teknoloji yatırımları artmıştır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 32.0,
+        "import": 66.0
+      },
+      {
+        "year": 2020,
+        "export": 28.0,
+        "import": 58.0
+      },
+      {
+        "year": 2021,
+        "export": 33.0,
+        "import": 70.0
+      },
+      {
+        "year": 2022,
+        "export": 35.0,
+        "import": 72.0
+      },
+      {
+        "year": 2023,
+        "export": 36.0,
+        "import": 74.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Yunanistan"
+      }
+    ],
+    "page": "yunanistan.html"
+  },
+  {
+    "name": "Bulgaristan",
+    "continent": "Avrupa",
+    "capital": "Sofya",
+    "area": "110.994 km²",
+    "population": "6.702.000",
+    "flag": "../images/flags/bulgaristan-flag.png",
+    "map": "../images/maps/bulgaristan-map.png",
+    "generalInfo": "Bulgaristan, Güneydoğu Avrupa’da yer alan parlamenter bir cumhuriyettir. Başkenti Sofya’dır. Yaklaşık 6,9 milyon nüfusa sahiptir. Resmî dili Bulgarca’dır ve para birimi Bulgar Levası (BGN)’dır. Ülke Avrupa Birliği ve NATO üyesidir. Tarih boyunca Trakya, Roma ve Osmanlı gibi birçok medeniyete ev sahipliği yapmıştır.",
+    "mapInfo": "Bulgaristan kuzeyde Romanya, doğuda Karadeniz, güneyde Türkiye ve Yunanistan, batıda Sırbistan ve Kuzey Makedonya ile sınır komşusudur. Yüzölçümü yaklaşık 110.994 km²’dir. Ülke dağlık ve ovalardan oluşur; en yüksek noktası 2.925 metre ile Rila Dağı’ndaki Musala Tepesi’dir. İklimi ılıman karasal ve Akdeniz iklimi karışımıdır.",
+    "flagMeaning": "Bulgaristan bayrağı yatay üç eşit şeritten oluşur: beyaz, yeşil ve kırmızı. Beyaz barışı ve özgürlüğü, yeşil tarımı ve doğayı, kırmızı ise cesareti ve ulusal bağımsızlık mücadelesini simgeler. Bayrak ilk olarak 1879 yılında kabul edilmiştir ve günümüzde Bulgaristan’ın ulusal sembolüdür.",
+    "economyDesc": "Bulgaristan ekonomisi Avrupa’nın gelişmekte olan ekonomilerindendir. Tarım, sanayi ve hizmet sektörleri önemli rol oynar. Tarımda buğday, mısır, ayçiçeği ve sebze üretimi öne çıkar. Sanayi sektöründe enerji, metal işleme, kimya ve tekstil ürünleri üretilir. Hizmet sektörü özellikle turizm, finans ve IT alanlarında büyüktür. Ülke ayrıca Balkanlar’da stratejik bir enerji ve lojistik koridoru olarak önem taşır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 32.0,
+        "import": 47.0
+      },
+      {
+        "year": 2020,
+        "export": 28.0,
+        "import": 42.0
+      },
+      {
+        "year": 2021,
+        "export": 34.0,
+        "import": 52.0
+      },
+      {
+        "year": 2022,
+        "export": 36.0,
+        "import": 55.0
+      },
+      {
+        "year": 2023,
+        "export": 37.0,
+        "import": 56.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Bulgaristan"
+      }
+    ],
+    "page": "bulgaristan.html"
+  },
+  {
+    "name": "Polonya",
+    "continent": "Avrupa",
+    "capital": "Varşova",
+    "area": "312.696 km²",
+    "population": "38.029.000",
+    "flag": "../images/flags/polonya-flag.png",
+    "map": "../images/maps/polonya-map.png",
+    "generalInfo": "Polonya, Orta Avrupa’da yer alan parlamenter bir cumhuriyettir. Başkenti Varşova’dır. Yaklaşık 38 milyon nüfusa sahiptir. Resmî dili Lehçe’dir ve para birimi Polonya Zlotisi (PLN)’dir. Polonya Avrupa Birliği ve NATO üyesidir ve tarih boyunca birçok defa sınırları değişmiş, zengin kültürel ve tarihi mirasa sahip bir ülkedir.",
+    "mapInfo": "Polonya kuzeyde Baltık Denizi, doğuda Belarus ve Ukrayna, güneyde Çekya ve Slovakya, batıda Almanya ile sınır komşusudur. Yüzölçümü yaklaşık 312.696 km²’dir. Ülke coğrafyası kuzeyde düzlükler ve göller, güneyde ise Karpatlar ve Sudet Dağları ile çeşitlenir. Büyük nehirleri arasında Vistül ve Oder bulunur.",
+    "flagMeaning": "Polonya bayrağı yatay iki eşit şeritten oluşur: beyaz ve kırmızı. Beyaz barışı ve saflığı, kırmızı ise cesareti ve ulusal mücadeleyi simgeler. Bayrak 1919 yılında resmî olarak kabul edilmiş olup, Polonya’nın bağımsızlık ve ulusal kimliğinin sembolüdür.",
+    "economyDesc": "Polonya ekonomisi Avrupa’nın en büyük 6. ekonomilerinden biridir ve son yıllarda hızlı büyüme göstermiştir. Sanayi, hizmetler ve tarım önemli sektörlerdir. Sanayi alanında otomotiv, makine, kimya ve gıda işleme öne çıkar. Hizmet sektörü özellikle finans, IT ve turizm alanlarında gelişmiştir. Tarımda buğday, çavdar, arpa ve patates yaygın olarak yetiştirilir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 205.0,
+        "import": 195.0
+      },
+      {
+        "year": 2020,
+        "export": 190.0,
+        "import": 180.0
+      },
+      {
+        "year": 2021,
+        "export": 220.0,
+        "import": 210.0
+      },
+      {
+        "year": 2022,
+        "export": 230.0,
+        "import": 220.0
+      },
+      {
+        "year": 2023,
+        "export": 235.0,
+        "import": 225.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Polonya"
+      }
+    ],
+    "page": "polonya.html"
+  },
+  {
+    "name": "Hollanda",
+    "continent": "Avrupa",
+    "capital": "Amsterdam",
+    "area": "41.543 km²",
+    "population": "18.378.000",
+    "flag": "../images/flags/hollanda-flag.png",
+    "map": "../images/maps/hollanda-map.png",
+    "generalInfo": "Hollanda, Batı Avrupa’da yer alan parlamenter bir anayasal monarşidir. Başkenti Amsterdam’dır, ancak hükümetin merkezi Lahey’de bulunur. Yaklaşık 17,5 milyon nüfusa sahiptir. Resmî dili Hollandaca’dır ve para birimi Euro’dur. Hollanda Avrupa Birliği ve NATO üyesidir ve uzun süredir denizcilik, ticaret ve tarım alanlarında önemli bir rol oynamaktadır.",
+    "mapInfo": "Hollanda, kuzeyde Kuzey Denizi, doğuda Almanya, güneyde Belçika ile çevrilidir. Yüzölçümü yaklaşık 41.543 km²’dir. Ülkenin coğrafyası büyük ölçüde alçak ve deniz seviyesinin altındadır; çok sayıda kanal, nehir ve göl bulunur. Ülke topraklarının yaklaşık %26’sı denizden kazanılmış dolgu alanlardan oluşur.",
+    "flagMeaning": "Hollanda bayrağı yatay üç eşit şeritten oluşur: kırmızı, beyaz ve mavi. Kırmızı cesareti, beyaz barışı ve saflığı, mavi ise sadakati ve ülkenin suyla olan bağını temsil eder. Bayrak 1937 yılında resmî olarak kabul edilmiştir ve Hollanda’nın ulusal sembolüdür.",
+    "economyDesc": "Hollanda ekonomisi yüksek gelirli, gelişmiş ve ihracata dayalıdır. Tarım sektörü verimli olup çiçekçilik, süt ürünleri ve sebze üretimi öne çıkar. Sanayi sektöründe kimya, elektronik, gıda işleme ve enerji alanları önemlidir. Hizmet sektörü özellikle finans, lojistik ve turizm alanlarında gelişmiştir. Hollanda, Avrupa’nın önemli liman ve ticaret merkezlerinden biri olan Rotterdam Limanı’na sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 605.0,
+        "import": 580.0
+      },
+      {
+        "year": 2020,
+        "export": 580.0,
+        "import": 560.0
+      },
+      {
+        "year": 2021,
+        "export": 620.0,
+        "import": 600.0
+      },
+      {
+        "year": 2022,
+        "export": 640.0,
+        "import": 620.0
+      },
+      {
+        "year": 2023,
+        "export": 645.0,
+        "import": 625.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Hollanda"
+      }
+    ],
+    "page": "hollanda.html"
+  },
+  {
+    "name": "Belçika",
+    "continent": "Avrupa",
+    "capital": "Brüksel",
+    "area": "30.528 km²",
+    "population": "11.764.000",
+    "flag": "../images/flags/belcika-flag.png",
+    "map": "../images/maps/belcika-map.png",
+    "generalInfo": "Belçika, Batı Avrupa’da yer alan federal bir parlamenter cumhuriyettir. Başkenti Brüksel’dir. Yaklaşık 11,5 milyon nüfusa sahiptir. Resmî dilleri Felemenkçe, Fransızca ve Almancadır. Para birimi Euro’dur. Belçika Avrupa Birliği ve NATO üyesidir ve Avrupa kurumlarının merkezi olarak önemli bir diplomatik role sahiptir.",
+    "mapInfo": "Belçika, kuzeyde Hollanda, doğuda Almanya ve Lüksemburg, güney ve batıda Fransa ile çevrilidir. Yüzölçümü yaklaşık 30.528 km²’dir. Ülke coğrafyası kuzeyde düzlükler, güneyde Ardenler adı verilen ormanlık ve dağlık bölgelerden oluşur. Ülkenin en önemli nehirleri Meuse ve Scheldt’tir.",
+    "flagMeaning": "Belçika bayrağı dikey üç eşit şeritten oluşur: siyah, sarı ve kırmızı. Siyah gücü ve kararlılığı, sarı refahı ve zenginliği, kırmızı ise cesareti ve bağımsızlık mücadelesini simgeler. Bayrak 1831 yılında kabul edilmiş olup, Belçika’nın ulusal kimliğinin sembolüdür.",
+    "economyDesc": "Belçika ekonomisi yüksek gelirli ve çeşitlenmiş bir yapıya sahiptir. Sanayi, hizmet ve tarım sektörleri önemli rol oynar. Sanayi alanında kimya, otomotiv, gıda işleme ve makine sektörleri öne çıkar. Hizmet sektörü özellikle finans, lojistik ve turizm alanlarında gelişmiştir. Tarımda başlıca ürünler buğday, arpa, mısır ve süt ürünleridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 450.0,
+        "import": 460.0
+      },
+      {
+        "year": 2020,
+        "export": 430.0,
+        "import": 440.0
+      },
+      {
+        "year": 2021,
+        "export": 480.0,
+        "import": 490.0
+      },
+      {
+        "year": 2022,
+        "export": 500.0,
+        "import": 510.0
+      },
+      {
+        "year": 2023,
+        "export": 505.0,
+        "import": 515.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Belçika"
+      }
+    ],
+    "page": "belcika.html"
+  },
+  {
+    "name": "İsviçre",
+    "continent": "Avrupa",
+    "capital": "Bern",
+    "area": "41.285 km²",
+    "population": "8.979.000",
+    "flag": "../images/flags/isvicre-flag.png",
+    "map": "../images/maps/isvicre-map.png",
+    "generalInfo": "İsviçre, Orta Avrupa’da yer alan federal bir cumhuriyettir. Başkenti Bern’dir. Yaklaşık 8,7 milyon nüfusa sahiptir. Resmî dilleri Almanca, Fransızca, İtalyanca ve Romanş’tır. Para birimi İsviçre Frangı (CHF)’dır. İsviçre tarafsızlık politikasıyla bilinir ve birçok uluslararası kuruluşun merkezine ev sahipliği yapar.",
+    "mapInfo": "İsviçre, kuzeyde Almanya, doğuda Avusturya ve Lihtenştayn, güneyde İtalya, batıda Fransa ile çevrilidir. Yüzölçümü yaklaşık 41.285 km²’dir. Ülke çoğunlukla Alp dağları ile kaplıdır; en yüksek noktası 4.634 metre ile Dufourspitze’dir. Ülkenin önemli nehirleri Ren, Rhône ve Aare’dir.",
+    "flagMeaning": "İsviçre bayrağı kırmızı zemin üzerinde beyaz bir haçtan oluşur. Beyaz haç barışı ve özgürlüğü, kırmızı zemin ise cesareti ve ulusal bağımsızlığı simgeler. Bayrak kare şeklindedir ve İsviçre’nin en bilinen ulusal sembolüdür.",
+    "economyDesc": "İsviçre ekonomisi gelişmiş ve yüksek gelirli bir yapıya sahiptir. Finans ve bankacılık sektörü oldukça güçlüdür; ayrıca sigorta, saat üretimi ve ilaç endüstrisi öne çıkar. Tarım sektörü küçük ölçekte olup süt ürünleri ve çikolata üretimi önemlidir. Turizm Alp dağları ve gölleri ile canlıdır. İsviçre ayrıca teknoloji ve inovasyon alanında da güçlüdür.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 300.0,
+        "import": 290.0
+      },
+      {
+        "year": 2020,
+        "export": 280.0,
+        "import": 270.0
+      },
+      {
+        "year": 2021,
+        "export": 310.0,
+        "import": 300.0
+      },
+      {
+        "year": 2022,
+        "export": 320.0,
+        "import": 310.0
+      },
+      {
+        "year": 2023,
+        "export": 325.0,
+        "import": 315.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/İsviçre"
+      }
+    ],
+    "page": "isvicre.html"
+  },
+  {
+    "name": "Avusturya",
+    "continent": "Avrupa",
+    "capital": "Viyana",
+    "area": "83.879 km²",
+    "population": "9.111.000",
+    "flag": "../images/flags/avusturya-flag.png",
+    "map": "../images/maps/avusturya-map.png",
+    "generalInfo": "Avusturya, Orta Avrupa’da yer alan federal bir cumhuriyettir. Başkenti Viyana’dır. Yaklaşık 9 milyon nüfusa sahiptir. Resmî dili Almanca’dır ve para birimi Euro’dur. Avusturya Avrupa Birliği üyesidir. Tarih boyunca Habsburg Hanedanı ve Avusturya-Macaristan İmparatorluğu ile önemli bir kültürel ve siyasi rol oynamıştır.",
+    "mapInfo": "Avusturya, kuzeyde Çekya ve Almanya, doğuda Slovakya ve Macaristan, güneyde Slovenya ve İtalya, batıda İsviçre ve Lihtenştayn ile çevrilidir. Yüzölçümü yaklaşık 83.879 km²’dir. Ülkenin büyük bölümü Alp dağlarıyla kaplıdır. Önemli nehirleri Tuna, Inn ve Mur’dur.",
+    "flagMeaning": "Avusturya bayrağı yatay üç eşit şeritten oluşur: kırmızı, beyaz ve kırmızı. Beyaz şerit saflığı ve barışı, kırmızı şeritler cesareti ve fedakârlığı temsil eder. Bayrak 13. yüzyıldan beri kullanılmakta olup Avusturya’nın en eski ulusal sembollerinden biridir.",
+    "economyDesc": "Avusturya ekonomisi gelişmiş ve yüksek gelirli bir yapıya sahiptir. Sanayi, hizmetler ve turizm önemli sektörlerdir. Sanayi alanında makine, metal, kimya ve otomotiv öne çıkar. Tarımda süt ürünleri ve tahıl üretimi yaygındır. Hizmet sektörü, özellikle turizm ve finans, ülke ekonomisinin büyük kısmını oluşturur. Avusturya ayrıca kültür, eğitim ve yenilikçilik alanlarında da güçlüdür.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 178.0,
+        "import": 182.0
+      },
+      {
+        "year": 2020,
+        "export": 165.0,
+        "import": 170.0
+      },
+      {
+        "year": 2021,
+        "export": 190.0,
+        "import": 195.0
+      },
+      {
+        "year": 2022,
+        "export": 200.0,
+        "import": 205.0
+      },
+      {
+        "year": 2023,
+        "export": 205.0,
+        "import": 210.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Avusturya"
+      }
+    ],
+    "page": "avusturya.html"
+  },
+  {
+    "name": "İsveç",
+    "continent": "Avrupa",
+    "capital": "Stockholm",
+    "area": "450.295 km²",
+    "population": "10.670.000",
+    "flag": "../images/flags/isvec-flag.png",
+    "map": "../images/maps/isvec-map.png",
+    "generalInfo": "İsveç, Kuzey Avrupa’da yer alan bir parlamenter monarşi ile yönetilen ülkedir. Başkenti Stockholm’dür. Yaklaşık 10,5 milyon nüfusa sahiptir. Resmî dili İsveççe’dir ve para birimi İsveç Kronu (SEK)’dur. İsveç, Avrupa Birliği üyesi olmasına rağmen Euro kullanmamaktadır ve sosyal refah sistemi ile yüksek yaşam standartları ile tanınır.",
+    "mapInfo": "İsveç, kuzeyde Norveç, doğuda Finlandiya ve Baltık Denizi, güneyde Danimarka Boğazı ile çevrilidir. Yüzölçümü yaklaşık 450.295 km²’dir. Ülke coğrafyası kuzeyde dağlık ve ormanlık, güneyde ise düzlük alanlardan oluşur. Önemli nehirleri arasında Göta, Klarälven ve Dalälven bulunur.",
+    "flagMeaning": "İsveç bayrağı mavi zemin üzerinde sarı bir İskandinav haçından oluşur. Sarı haç Hristiyanlığı temsil ederken, mavi zemin gökyüzü ve suyu simgeler. Bayrak 16. yüzyıldan beri kullanılır ve İsveç’in ulusal sembolüdür.",
+    "economyDesc": "İsveç ekonomisi yüksek gelirli ve gelişmiş bir yapıya sahiptir. Sanayi, hizmetler ve teknoloji sektörleri ekonominin temelini oluşturur. Sanayi alanında otomotiv, telekomünikasyon, enerji ve makine üretimi öne çıkar. Tarım sektörü küçük ölçeklidir; süt, et ve tahıl üretimi yaygındır. İsveç, inovasyon, Ar-Ge ve yeşil enerji alanlarında öncü ülkeler arasında yer alır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 162.0,
+        "import": 152.0
+      },
+      {
+        "year": 2020,
+        "export": 150.0,
+        "import": 140.0
+      },
+      {
+        "year": 2021,
+        "export": 170.0,
+        "import": 160.0
+      },
+      {
+        "year": 2022,
+        "export": 175.0,
+        "import": 165.0
+      },
+      {
+        "year": 2023,
+        "export": 178.0,
+        "import": 168.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/İsveç"
+      }
+    ],
+    "page": "isvec.html"
+  },
+  {
+    "name": "Norveç",
+    "continent": "Avrupa",
+    "capital": "Oslo",
+    "area": "385.207 km²",
+    "population": "5.635.000",
+    "flag": "../images/flags/norvec-flag.png",
+    "map": "../images/maps/norvec-map.png",
+    "generalInfo": "Norveç, Kuzey Avrupa’da yer alan anayasal bir monarşi ile yönetilen ülkedir. Başkenti Oslo’dur. Yaklaşık 5,4 milyon nüfusa sahiptir. Resmî dili Norveççe’dir ve para birimi Norveç Kronu (NOK)’dur. Norveç, Avrupa Ekonomik Alanı üyesi olmasına rağmen Avrupa Birliği üyesi değildir. Ülke, yüksek yaşam standartları ve doğal kaynakları ile tanınır.",
+    "mapInfo": "Norveç, batıda Atlantik Okyanusu ve Norveç Denizi, doğuda İsveç ve Finlandiya ile çevrilidir. Yüzölçümü yaklaşık 385.207 km²’dir. Ülke coğrafyası dağlık ve fiyortlarla kaplıdır. Önemli nehirleri arasında Glomma ve Pasvikelva yer alır. Kuzey Kutup Dairesi’ne kadar uzanan uzun kıyıları ve binlerce adası vardır.",
+    "flagMeaning": "Norveç bayrağı kırmızı zemin üzerinde mavi bir İskandinav haçına sahiptir; haç beyaz kenarlıklıdır. Mavi haç İsveç ve Danimarka ile tarihi bağları simgeler, beyaz kenarlık barışı temsil eder. Kırmızı zemin cesareti ve bağımsızlığı simgeler. Bayrak 1821 yılında resmî olarak kabul edilmiştir.",
+    "economyDesc": "Norveç ekonomisi yüksek gelirli ve gelişmiş bir yapıya sahiptir. Petrol ve doğal gaz ihracatı, enerji sektörünün temelini oluşturur. Balıkçılık, denizcilik ve gemi inşası da önemli gelir kaynaklarıdır. Sanayi ve hizmet sektörü güçlüdür; özellikle bankacılık, turizm ve telekomünikasyon öne çıkar. Norveç, sosyal refah ve sürdürülebilir enerji alanlarında öncü ülkelerden biridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 112.0,
+        "import": 102.0
+      },
+      {
+        "year": 2020,
+        "export": 100.0,
+        "import": 90.0
+      },
+      {
+        "year": 2021,
+        "export": 118.0,
+        "import": 108.0
+      },
+      {
+        "year": 2022,
+        "export": 120.0,
+        "import": 110.0
+      },
+      {
+        "year": 2023,
+        "export": 123.0,
+        "import": 113.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Norveç"
+      }
+    ],
+    "page": "norvec.html"
+  },
+  {
+    "name": "Danimarka",
+    "continent": "Avrupa",
+    "capital": "Kopenhag",
+    "area": "42.933 km²",
+    "population": "6.009.000",
+    "flag": "../images/flags/danimarka-flag.png",
+    "map": "../images/maps/danimarka-map.png",
+    "generalInfo": "Danimarka, Kuzey Avrupa’da yer alan anayasal bir monarşi ile yönetilen ülkedir. Başkenti Kopenhag’dır. Yaklaşık 5,9 milyon nüfusa sahiptir. Resmî dili Danca’dır ve para birimi Danimarka Kronu (DKK)’dır. Danimarka Avrupa Birliği üyesidir, ancak Euro kullanmamaktadır. Yüksek yaşam standartları ve güçlü sosyal refah sistemi ile tanınır.",
+    "mapInfo": "Danimarka, kuzeyde Norveç Denizi ve Kuzey Denizi, doğuda Baltık Denizi ile çevrilidir. Güneyde Almanya ile kara sınırı vardır. Yüzölçümü yaklaşık 42.933 km²’dir. Ülke, birçok küçük ada ve Jutland Yarımadası’ndan oluşur. Toprakları çoğunlukla düz ve alçaktır, kıyı şeridi oldukça uzundur.",
+    "flagMeaning": "Danimarka bayrağı kırmızı zemin üzerinde beyaz bir İskandinav haçından oluşur. Haç Hristiyanlığı temsil eder. Kırmızı zemin cesareti ve bağımsızlığı, beyaz haç ise barışı ve saflığı simgeler. Bayrak, Danimarka’nın ulusal sembolü olarak uzun bir tarihe sahiptir ve dünyanın en eski bayraklarından biridir.",
+    "economyDesc": "Danimarka ekonomisi gelişmiş ve yüksek gelirli bir yapıya sahiptir. Tarım, sanayi ve hizmet sektörleri ekonominin temelini oluşturur. Tarımda süt, et ve tahıl üretimi öne çıkar. Sanayi alanında gemi inşası, makine ve kimya ürünleri önemlidir. Hizmet sektörü özellikle finans, lojistik ve turizm alanlarında güçlüdür. Danimarka, yenilenebilir enerji ve sürdürülebilir teknoloji alanlarında öncü ülkelerden biridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 81.0,
+        "import": 76.0
+      },
+      {
+        "year": 2020,
+        "export": 75.0,
+        "import": 70.0
+      },
+      {
+        "year": 2021,
+        "export": 85.0,
+        "import": 80.0
+      },
+      {
+        "year": 2022,
+        "export": 87.0,
+        "import": 82.0
+      },
+      {
+        "year": 2023,
+        "export": 88.0,
+        "import": 83.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Danimarka"
+      }
+    ],
+    "page": "danimarka.html"
+  },
+  {
+    "name": "Rusya",
+    "continent": "Avrupa/Asya",
+    "capital": "Moskova",
+    "area": "17.098.242 km²",
+    "population": "143.769.000",
+    "flag": "../images/flags/rusya-flag.png",
+    "map": "../images/maps/rusya-map.png",
+    "generalInfo": "Rusya, Kuzey Avrasya’da yer alan federal bir cumhuriyettir. Başkenti Moskova’dır. Yaklaşık 146 milyon nüfusa sahiptir ve dünyanın yüzölçümü bakımından en büyük ülkesidir. Resmî dili Rusça’dır ve para birimi Rus Rublesi (RUB)’dir. Rusya, BM, G20 ve diğer uluslararası kuruluşlarda aktif bir rol oynar ve enerji kaynakları açısından zengindir.",
+    "mapInfo": "Rusya, kuzeyde Arktik Okyanusu, batıda Norveç, Finlandiya, Estonya, Letonya, Litvanya, Polonya (Kaliningrad) ve Belarus, güneyde Ukrayna, Gürcistan, Azerbaycan, Kazakistan, Çin, Moğolistan ve Kuzey Kore ile çevrilidir. Doğuda Pasifik Okyanusu’na kıyısı vardır. Yüzölçümü yaklaşık 17.098.242 km²’dir ve Sibirya, Ural Dağları ve geniş bozkır alanlarıyla çeşitlenir.",
+    "flagMeaning": "Rusya bayrağı yatay üç eşit şeritten oluşur: beyaz, mavi ve kırmızı. Beyaz barışı ve saflığı, mavi sadakati ve vatanseverliği, kırmızı ise cesareti ve kahramanlığı simgeler. Bayrak ilk olarak 1696’da kullanılmaya başlanmış ve 1991’de resmî hâle gelmiştir.",
+    "economyDesc": "Rusya ekonomisi doğal kaynaklara dayanır ve dünyanın en büyük enerji ihracatçılarından biridir. Petrol, doğal gaz ve kömür ekonominin temelini oluşturur. Sanayi sektörü özellikle makine, kimya ve savunma ürünlerinde güçlüdür. Tarımda tahıl, patates ve şeker pancarı öne çıkar. Hizmet sektörü ise finans, telekomünikasyon ve turizm alanlarında gelişmektedir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 410.0,
+        "import": 250.0
+      },
+      {
+        "year": 2020,
+        "export": 380.0,
+        "import": 220.0
+      },
+      {
+        "year": 2021,
+        "export": 430.0,
+        "import": 280.0
+      },
+      {
+        "year": 2022,
+        "export": 450.0,
+        "import": 300.0
+      },
+      {
+        "year": 2023,
+        "export": 460.0,
+        "import": 310.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Rusya"
+      }
+    ],
+    "page": "rusya.html"
+  },
+  {
+    "name": "Japonya",
+    "continent": "Asya",
+    "capital": "Tokyo",
+    "area": "377.975 km²",
+    "population": "122.923.000",
+    "flag": "../images/flags/japonya-flag.png",
+    "map": "../images/maps/japonya-map.png",
+    "generalInfo": "Japonya, Doğu Asya’da yer alan anayasal monarşi ile yönetilen bir ülkedir. Başkenti Tokyo’dur. Yaklaşık 125 milyon nüfusa sahiptir. Resmî dili Japonca’dır ve para birimi Japon Yeni (JPY)’dir. Japonya, dünyanın önde gelen ekonomik güçlerinden biridir ve teknoloji, sanayi ve kültür alanlarında küresel etkisi büyüktür.",
+    "mapInfo": "Japonya, Pasifik Okyanusu’nda dört büyük ada (Honshu, Hokkaido, Kyushu ve Shikoku) ile birçok küçük adadan oluşur. Doğuda Pasifik, batıda Japon Denizi, güneyde Filipin Denizi ve kuzeyde Ohotsk Denizi ile çevrilidir. Yüzölçümü yaklaşık 377.975 km²’dir. Ülke dağlık ve volkanik bir yapıya sahiptir; Fuji Dağı en yüksek noktasıdır.",
+    "flagMeaning": "Japonya bayrağı beyaz zemin üzerinde kırmızı bir dairesel güneş sembolünden oluşur. Beyaz zemin saflığı ve dürüstlüğü, kırmızı güneş ise enerji ve samuray ruhunu simgeler. Bayrak 'Nisshoki' veya 'Hinomaru' adıyla bilinir ve 1870’lerden beri kullanılmaktadır.",
+    "economyDesc": "Japonya ekonomisi yüksek gelirli ve gelişmiş bir yapıya sahiptir. Sanayi ve teknoloji sektörleri ekonominin temelini oluşturur. Otomotiv, elektronik, robotik ve gemi inşası öne çıkar. Tarımda pirinç, sebze ve meyve yetiştiriciliği yaygındır. Hizmet sektörü, özellikle finans, turizm ve ticaret alanlarında güçlüdür. Japonya, Ar-Ge ve inovasyon yatırımlarıyla küresel öneme sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 677.0,
+        "import": 634.0
+      },
+      {
+        "year": 2020,
+        "export": 680.0,
+        "import": 640.0
+      },
+      {
+        "year": 2021,
+        "export": 740.0,
+        "import": 700.0
+      },
+      {
+        "year": 2022,
+        "export": 760.0,
+        "import": 720.0
+      },
+      {
+        "year": 2023,
+        "export": 770.0,
+        "import": 730.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Japonya"
+      }
+    ],
+    "page": "japonya.html"
+  },
+  {
+    "name": "Çin",
+    "continent": "Asya",
+    "capital": "Pekin",
+    "area": "9.596.961 km²",
+    "population": "1.415.216.000",
+    "flag": "../images/flags/cin-flag.png",
+    "map": "../images/maps/cin-map.png",
+    "generalInfo": "Çin, Doğu Asya’da yer alan tek partili bir sosyalist cumhuriyettir. Başkenti Pekin’dir. Yaklaşık 1,4 milyar nüfusa sahiptir ve dünyanın en kalabalık ülkesidir. Resmî dili Mandarin Çincesi’dir ve para birimi Çin Yuanı (CNY)’dır. Çin, BM Güvenlik Konseyi’nin daimi üyesidir ve ekonomik, politik ve kültürel açıdan küresel bir güçtür.",
+    "mapInfo": "Çin, kuzeyde Moğolistan ve Rusya, doğuda Kore ve Pasifik Okyanusu, güneyde Vietnam, Laos, Myanmar, Hindistan, Bhutan ve Nepal, batıda Kazakistan, Kırgızistan, Tacikistan ve Afganistan ile çevrilidir. Yüzölçümü yaklaşık 9.597.000 km²’dir. Ülke coğrafyası çöller, dağlar, ovalar ve nehirler ile çeşitlenir; büyük nehirleri Yangtze ve Huang He’dir.",
+    "flagMeaning": "Çin bayrağı kırmızı zemin üzerinde sol üst köşede bir büyük ve dört küçük sarı yıldızdan oluşur. Kırmızı zemin devrimi ve Çin halkının birliğini, sarı yıldızlar Komünist Parti liderliğinde halkın birliğini simgeler. Bayrak 1949 yılında resmî olarak kabul edilmiştir.",
+    "economyDesc": "Çin ekonomisi dünyanın en büyük ikinci ekonomisidir ve sanayi ile ihracata dayalıdır. Üretim, elektronik, otomotiv, tekstil ve kimya sektörleri öne çıkar. Tarımda pirinç, buğday, mısır ve sebze yetiştirilir. Hizmet sektörü hızlı büyümekte olup finans, lojistik ve turizm alanlarında önemlidir. Çin, altyapı yatırımları ve teknoloji geliştirme konusunda küresel bir liderdir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 2499.0,
+        "import": 2138.0
+      },
+      {
+        "year": 2020,
+        "export": 2430.0,
+        "import": 2045.0
+      },
+      {
+        "year": 2021,
+        "export": 2620.0,
+        "import": 1960.0
+      },
+      {
+        "year": 2022,
+        "export": 3000.0,
+        "import": 2500.0
+      },
+      {
+        "year": 2023,
+        "export": 3200.0,
+        "import": 2700.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Çin"
+      }
+    ],
+    "page": "cin.html"
+  },
+  {
+    "name": "Hindistan",
+    "continent": "Asya",
+    "capital": "Yeni Delhi",
+    "area": "3.287.263 km²",
+    "population": "1.467.464.000",
+    "flag": "../images/flags/hindistan-flag.png",
+    "map": "../images/maps/hindistan-map.png",
+    "generalInfo": "Hindistan, Güney Asya’da yer alan federal parlamenter bir cumhuriyettir. Başkenti Yeni Delhi’dir. Yaklaşık 1,42 milyar nüfusa sahiptir ve Çin’den sonra dünyanın en kalabalık ikinci ülkesidir. Resmî dilleri Hintçe ve İngilizce’dir, para birimi Hint Rupisi (INR)’dir. Hindistan, BM ve G20 üyesi olup kültürel çeşitliliği ve demokratik sistemiyle tanınır.",
+    "mapInfo": "Hindistan, kuzeyde Çin, Nepal ve Bhutan, doğuda Bangladeş ve Myanmar, batıda Pakistan ile çevrilidir; güneyde Hint Okyanusu’na kıyısı vardır. Yüzölçümü yaklaşık 3.287.263 km²’dir. Ülke coğrafyası Himalayalar, Indo-Ganj Düzlüğü, Thar Çölü ve Deccan Platosu gibi farklı alanlardan oluşur. Önemli nehirleri Ganj, Brahmaputra ve İndus’tur.",
+    "flagMeaning": "Hindistan bayrağı yatay üç eşit şeritten oluşur: turuncu, beyaz ve yeşil. Beyaz şeridin ortasında 24 kollu mavi bir Ashoka Çarkı bulunur. Turuncu cesareti ve fedakârlığı, beyaz barışı ve gerçeği, yeşil refah ve bereketi temsil eder. Çark, adalet ve ilerlemeyi simgeler. Bayrak 1947 yılında kabul edilmiştir.",
+    "economyDesc": "Hindistan ekonomisi dünyanın en büyük ekonomilerinden biridir ve tarım, sanayi ile hizmet sektörlerine dayanır. Tarımda pirinç, buğday, pamuk ve çay üretimi yaygındır. Sanayi sektöründe otomotiv, tekstil, kimya ve yazılım hizmetleri öne çıkar. Hizmet sektörü özellikle IT ve finans alanlarında hızlı büyümektedir. Hindistan, girişimcilik ve teknoloji inovasyonları ile küresel bir merkez haline gelmiştir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 325.0,
+        "import": 490.0
+      },
+      {
+        "year": 2020,
+        "export": 275.0,
+        "import": 368.0
+      },
+      {
+        "year": 2021,
+        "export": 330.0,
+        "import": 515.0
+      },
+      {
+        "year": 2022,
+        "export": 350.0,
+        "import": 570.0
+      },
+      {
+        "year": 2023,
+        "export": 360.0,
+        "import": 600.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Hindistan"
+      }
+    ],
+    "page": "hindistan.html"
+  },
+  {
+    "name": "Güney Kore",
+    "continent": "Asya",
+    "capital": "Seul",
+    "area": "100.210 km²",
+    "population": "51.653.000",
+    "flag": "../images/flags/guney-kore-flag.png",
+    "map": "../images/maps/guney-kore-map.png",
+    "generalInfo": "Güney Kore, Doğu Asya’da yer alan üniter bir cumhuriyettir. Başkenti Seul’dür. Yaklaşık 52 milyon nüfusa sahiptir. Resmî dili Korece’dir ve para birimi Güney Kore Wonu (KRW)’dur. Güney Kore, BM, G20 ve OECD üyesidir ve teknoloji, sanayi ve kültürel ihracat alanında küresel öneme sahiptir.",
+    "mapInfo": "Güney Kore, kuzeyde Kuzey Kore ile kara sınırı paylaşır, doğuda Japon Denizi, batıda Sarı Deniz ve güneyde Kore Boğazı ile çevrilidir. Yüzölçümü yaklaşık 100.210 km²’dir. Ülke coğrafyası dağlık ve kıyı şeridi engebelidir. Önemli nehirleri Han, Nakdong ve Geum’dur.",
+    "flagMeaning": "Güney Kore bayrağı beyaz zemin üzerine siyah trigramlar ve ortada kırmızı-beyaz bir yin-yang sembolü içerir. Beyaz saflığı ve barışı, yin-yang evrensel dengeyi, trigramlar ise doğa ve evrensel prensipleri simgeler. Bayrak 1883 yılında kabul edilmiştir ve ülkenin ulusal sembolüdür.",
+    "economyDesc": "Güney Kore ekonomisi yüksek gelirli ve gelişmiş bir yapıya sahiptir. Sanayi, teknoloji ve hizmet sektörleri ekonominin temelini oluşturur. Elektronik, otomotiv, gemi inşası ve kimya sektörleri öne çıkar. Tarım sektörü küçük ölçeklidir; pirinç ve sebze üretimi yaygındır. Ülke, teknoloji inovasyonu, Ar-Ge ve ihracat odaklı sanayi alanlarında dünya liderlerinden biridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 605.0,
+        "import": 490.0
+      },
+      {
+        "year": 2020,
+        "export": 512.0,
+        "import": 450.0
+      },
+      {
+        "year": 2021,
+        "export": 635.0,
+        "import": 572.0
+      },
+      {
+        "year": 2022,
+        "export": 690.0,
+        "import": 600.0
+      },
+      {
+        "year": 2023,
+        "export": 700.0,
+        "import": 620.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Güney_Kore"
+      }
+    ],
+    "page": "guney-kore.html"
+  },
+  {
+    "name": "Singapur",
+    "continent": "Asya",
+    "capital": "Singapur",
+    "area": "728 km²",
+    "population": "5.881.000",
+    "flag": "../images/flags/singapur-flag.png",
+    "map": "../images/maps/singapur-map.png",
+    "generalInfo": "Singapur, Güneydoğu Asya’da yer alan şehir-devlet şeklinde yönetilen bir ülkedir. Başkenti Singapur Şehri’dir. Yaklaşık 5,9 milyon nüfusa sahiptir. Resmî dilleri İngilizce, Malayca, Mandarin ve Tamil’dir. Para birimi Singapur Doları (SGD)’dır. Singapur, güçlü bir finans, ticaret ve liman merkezi olarak küresel öneme sahiptir.",
+    "mapInfo": "Singapur, Malay Yarımadası’nın güney ucunda, ekvatora yakın bir ada ülkesidir. Yüzölçümü yaklaşık 728 km²’dir. Ana ada ve 60’tan fazla küçük adadan oluşur. Ülke tropikal iklim özelliklerine sahiptir ve yoğun bir şehirleşme ile sınırlı doğal alanlar bulunur.",
+    "flagMeaning": "Singapur bayrağı yatay iki eşit şeritten oluşur: üstte kırmızı, altta beyaz; sol üst köşede beyaz bir ay ve beş yıldız vardır. Kırmızı eşitliği ve ortakluğu, beyaz saflığı simgeler. Ay birliğe ve yeni başlangıca, yıldızlar demokrasi, barış, ilerleme, adalet ve eşitliği temsil eder. Bayrak 1959 yılında resmî kabul edilmiştir.",
+    "economyDesc": "Singapur ekonomisi yüksek gelirli ve gelişmiş bir yapıya sahiptir. Hizmet sektörü, özellikle finans, lojistik, turizm ve bilgi teknolojileri ekonominin büyük kısmını oluşturur. Sanayi sektörü elektronik, biyomedikal ürünler ve gemi inşasında yoğunlaşmıştır. Singapur, küresel ticaret ve yatırım için stratejik bir merkezdir ve yüksek yaşam standartları ile tanınır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 450.0,
+        "import": 420.0
+      },
+      {
+        "year": 2020,
+        "export": 460.0,
+        "import": 430.0
+      },
+      {
+        "year": 2021,
+        "export": 490.0,
+        "import": 460.0
+      },
+      {
+        "year": 2022,
+        "export": 500.0,
+        "import": 470.0
+      },
+      {
+        "year": 2023,
+        "export": 505.0,
+        "import": 475.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Singapur"
+      }
+    ],
+    "page": "singapur.html"
+  },
+  {
+    "name": "Tayland",
+    "continent": "Asya",
+    "capital": "Bangkok",
+    "area": "513.120 km²",
+    "population": "71.606.000",
+    "flag": "../images/flags/tayland-flag.png",
+    "map": "../images/maps/tayland-map.png",
+    "generalInfo": "Tayland, Güneydoğu Asya’da yer alan anayasal monarşi ile yönetilen bir ülkedir. Başkenti Bangkok’tur. Yaklaşık 70 milyon nüfusa sahiptir. Resmî dili Tayca’dır ve para birimi Tayland Bahtı (THB)’dır. Tayland, ASEAN üyesi olup kültürel çeşitliliği, Budist mirası ve turizmi ile tanınır.",
+    "mapInfo": "Tayland, kuzeyde Laos ve Myanmar, doğuda Laos ve Kamboçya, güneyde Malezya ile çevrilidir; batısı Andaman Denizi, doğusu Tayland Körfezi’ne kıyısı vardır. Yüzölçümü yaklaşık 513.120 km²’dir. Ülke coğrafyası kuzeyde dağlık, merkezi bölgelerde düz ovalar ve güneyde yarımada ve adalardan oluşur. Önemli nehirleri Chao Phraya ve Mekong’un bir kısmıdır.",
+    "flagMeaning": "Tayland bayrağı yatay beş eşit şeritten oluşur: kırmızı, beyaz, mavi (orta), beyaz ve kırmızı. Kırmızı ulusun gücünü ve halkı, beyaz din ve saflığı, mavi monarşiyi ve ülkenin birliğini simgeler. Bayrak 1917 yılında resmî olarak kabul edilmiştir.",
+    "economyDesc": "Tayland ekonomisi ihracata dayalı ve gelişmekte olan bir yapıya sahiptir. Tarım, sanayi ve hizmet sektörleri ekonomide önemli rol oynar. Tarımda pirinç, mısır, şeker kamışı ve tropik meyve üretimi öne çıkar. Sanayi alanında otomotiv, elektronik ve tekstil sektörü güçlüdür. Hizmet sektörü turizm, finans ve lojistik alanlarında büyüktür ve ülke ekonomisinin temelini oluşturur.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 245.0,
+        "import": 234.0
+      },
+      {
+        "year": 2020,
+        "export": 203.0,
+        "import": 210.0
+      },
+      {
+        "year": 2021,
+        "export": 260.0,
+        "import": 250.0
+      },
+      {
+        "year": 2022,
+        "export": 300.0,
+        "import": 290.0
+      },
+      {
+        "year": 2023,
+        "export": 310.0,
+        "import": 300.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Tayland"
+      }
+    ],
+    "page": "tayland.html"
+  },
+  {
+    "name": "Malezya",
+    "continent": "Asya",
+    "capital": "Kuala Lumpur",
+    "area": "330.803 km²",
+    "population": "36.095.000",
+    "flag": "../images/flags/malezya-flag.png",
+    "map": "../images/maps/malezya-map.png",
+    "generalInfo": "Malezya, Güneydoğu Asya’da yer alan federal anayasal monarşi ile yönetilen bir ülkedir. Başkenti Kuala Lumpur’dur; idari merkezi Putrajaya’dır. Yaklaşık 33 milyon nüfusa sahiptir. Resmî dili Malayca’dır ve para birimi Malezya Ringgiti (MYR)’dir. Malezya, ASEAN üyesi olup ekonomik ve kültürel açıdan bölgesel bir öneme sahiptir.",
+    "mapInfo": "Malezya, Malay Yarımadası’nın güneyinde ve Borneo Adası’nın kuzeyinde yer alır. Batıda Tayland, doğuda Endonezya ve Brunei ile çevrilidir; güneyde Singapur’a deniz sınırı vardır. Yüzölçümü yaklaşık 330.803 km²’dir. Ülke coğrafyası dağlık bölgeler, tropikal yağmur ormanları ve kıyı ovalarından oluşur. Önemli nehirleri Pahang, Rajang ve Kinabatangan’dır.",
+    "flagMeaning": "Malezya bayrağı yatay 14 kırmızı ve beyaz şeritten oluşur; sol üst köşede mavi zemin üzerinde sarı bir ay ve 14 kollu yıldız bulunur. Kırmızı cesareti, beyaz saflığı, mavi birlik ve istikrarı, sarı ay ve yıldız ise monarşi ve federal devletin birlikteliğini simgeler. Bayrak 1963 yılında kabul edilmiştir.",
+    "economyDesc": "Malezya ekonomisi ihracata dayalı ve çeşitlenmiş bir yapıya sahiptir. Sanayi, tarım ve hizmet sektörleri ekonomide önemli rol oynar. Sanayi alanında elektronik, petrol ve gaz, otomotiv ve palmiye yağı işleme öne çıkar. Tarımda kauçuk, palm yağı ve kahve üretimi yaygındır. Hizmet sektörü turizm, finans ve lojistik alanlarında güçlüdür ve ülke ekonomisinin temelini oluşturur.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 236.0,
+        "import": 205.0
+      },
+      {
+        "year": 2020,
+        "export": 210.0,
+        "import": 185.0
+      },
+      {
+        "year": 2021,
+        "export": 240.0,
+        "import": 220.0
+      },
+      {
+        "year": 2022,
+        "export": 260.0,
+        "import": 240.0
+      },
+      {
+        "year": 2023,
+        "export": 270.0,
+        "import": 250.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Malezya"
+      }
+    ],
+    "page": "malezya.html"
+  },
+  {
+    "name": "Kazakistan",
+    "continent": "Asya",
+    "capital": "Nur-Sultan (Astana)",
+    "area": "2.724.900 km²",
+    "population": "20.910.000",
+    "flag": "../images/flags/kazakistan-flag.png",
+    "map": "../images/maps/kazakistan-map.png",
+    "generalInfo": "Kazakistan, Orta Asya’da yer alan üniter bir cumhuriyettir. Başkenti Astana’dır (resmî adı Nursultan). Yaklaşık 19 milyon nüfusa sahiptir. Resmî dilleri Kazakça ve Rusça’dır, para birimi Kazak Tengesi (KZT)’dir. Kazakistan, zengin doğal kaynakları ve enerji rezervleri ile bölgesel bir ekonomik güçtür.",
+    "mapInfo": "Kazakistan, kuzeyde Rusya, doğuda Çin, güneyde Kırgızistan, Özbekistan ve Türkmenistan, batıda Hazar Denizi ile çevrilidir. Yüzölçümü yaklaşık 2.724.900 km²’dir, dünyanın en büyük kara ile çevrili ülkelerinden biridir. Ülke coğrafyası bozkırlar, dağlar, göller ve çöllerden oluşur. Önemli nehirleri Irtyş, Syr Darya ve Ural’dır.",
+    "flagMeaning": "Kazakistan bayrağı açık mavi zemin üzerinde sarı bir güneş ve altın renginde bir kartal sembolünden oluşur; sol kenarda dikey bir milli motif şeridi bulunur. Mavi gökyüzü ve barışı, sarı güneş enerji ve refahı, kartal özgürlüğü simgeler. Bayrak 1992 yılında kabul edilmiştir.",
+    "economyDesc": "Kazakistan ekonomisi doğal kaynaklar ve enerji sektörüne dayanır. Petrol, doğal gaz, kömür ve mineraller ihracatta ön plandadır. Tarımda tahıl, pamuk ve hayvancılık öne çıkar. Sanayi sektöründe metal işleme, kimya ve inşaat malzemeleri üretilir. Hizmet sektörü finans, lojistik ve ticaret alanlarında gelişmiştir. Kazakistan, bölgesel enerji ve ulaşım koridorları açısından stratejik öneme sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 64.0,
+        "import": 45.0
+      },
+      {
+        "year": 2020,
+        "export": 58.0,
+        "import": 42.0
+      },
+      {
+        "year": 2021,
+        "export": 70.0,
+        "import": 60.0
+      },
+      {
+        "year": 2022,
+        "export": 75.0,
+        "import": 65.0
+      },
+      {
+        "year": 2023,
+        "export": 78.0,
+        "import": 68.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Kazakistan"
+      }
+    ],
+    "page": "kazakistan.html"
+  },
+  {
+    "name": "Kırgızistan",
+    "continent": "Asya",
+    "capital": "Bişkek",
+    "area": "199.951 km²",
+    "population": "7.324.000",
+    "flag": "../images/flags/kirgizistan-flag.png",
+    "map": "../images/maps/kirgizistan-map.png",
+    "generalInfo": "Kırgızistan, Orta Asya’da yer alan üniter bir cumhuriyettir. Başkenti Bişkek’tir. Yaklaşık 6,6 milyon nüfusa sahiptir. Resmî dili Kırgızca olup Rusça da yaygın olarak kullanılır. Para birimi Kırgız Somu (KGS)’dur. Kırgızistan, dağlık coğrafyası, gölleri ve tarihi İpek Yolu bağlantıları ile bilinir.",
+    "mapInfo": "Kırgızistan, kuzeyde Kazakistan, doğuda Çin, güneyde Tacikistan ve batıda Özbekistan ile çevrilidir. Yüzölçümü yaklaşık 199.951 km²’dir. Ülke coğrafyası dağlık olup, Tien Shan Dağları ülkenin büyük kısmını kaplar. Issık Göl, ülkenin en büyük ve dünyadaki en büyük tuzlu su göllerinden biridir.",
+    "flagMeaning": "Kırgızistan bayrağı kırmızı zemin üzerinde sarı bir güneş ve güneşin ortasında 40 ışınlı bir tunduk (geleneksel çadır kubbesi) sembolü içerir. Kırmızı cesareti ve kahramanlığı, sarı güneş refah ve aydınlığı, tunduk ise ulusal kültür ve birliği simgeler. Bayrak 1992 yılında kabul edilmiştir.",
+    "economyDesc": "Kırgızistan ekonomisi tarım, madencilik ve hizmet sektörlerine dayanır. Tarımda buğday, mısır, pamuk ve meyve üretimi öne çıkar. Hayvancılık önemli bir geçim kaynağıdır. Sanayi sektöründe gıda işleme, hafif sanayi ve madencilik öne çıkar. Hizmet sektörü, özellikle turizm ve ticaret alanında büyümektedir. Ülke ayrıca hidroelektrik enerji potansiyeli açısından önemlidir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 1.5,
+        "import": 6.0
+      },
+      {
+        "year": 2020,
+        "export": 1.3,
+        "import": 5.0
+      },
+      {
+        "year": 2021,
+        "export": 1.8,
+        "import": 6.5
+      },
+      {
+        "year": 2022,
+        "export": 2.0,
+        "import": 7.0
+      },
+      {
+        "year": 2023,
+        "export": 2.1,
+        "import": 7.5
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Kırgızistan"
+      }
+    ],
+    "page": "kirgizistan.html"
+  },
+  {
+    "name": "Özbekistan",
+    "continent": "Asya",
+    "capital": "Taşkent",
+    "area": "448.978 km²",
+    "population": "37.235.000",
+    "flag": "../images/flags/ozbekistan-flag.png",
+    "map": "../images/maps/ozbekistan-map.png",
+    "generalInfo": "Özbekistan, Orta Asya’da yer alan üniter bir cumhuriyettir. Başkenti Taşkent’tir. Yaklaşık 36,5 milyon nüfusa sahiptir. Resmî dili Özbekçe’dir ve para birimi Özbekistan Somu (UZS)’dur. Özbekistan, tarihi İpek Yolu güzergâhında bulunması ve zengin kültürel mirası ile bilinir.",
+    "mapInfo": "Özbekistan, kuzeyde Kazakistan, doğuda Kazakistan ve Kırgızistan, güneyde Tacikistan ve Afganistan, batıda Türkmenistan ile çevrilidir. Yüzölçümü yaklaşık 447.400 km²’dir. Ülke çoğunlukla bozkır ve çöl alanlarından oluşur; önemli nehirleri Amu Derya ve Sir Derya’dır.",
+    "flagMeaning": "Özbekistan bayrağı yatay mavi, beyaz ve yeşil şeritlerden oluşur; beyaz şeridin üzerinde kırmızı bir ince çizgi ve sol üst köşede ay ve 12 yıldız bulunur. Mavi gökyüzünü, beyaz barışı ve saflığı, yeşil doğayı ve verimliliği, kırmızı çizgi ise cesareti temsil eder. Ay ve yıldızlar tarih ve kültürel mirası simgeler. Bayrak 1991 yılında kabul edilmiştir.",
+    "economyDesc": "Özbekistan ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda pamuk, buğday ve meyve üretimi öne çıkar. Sanayi sektöründe tekstil, gıda işleme ve maden işleme yaygındır. Hizmet sektörü özellikle ticaret ve finans alanlarında gelişmektedir. Ülke doğal kaynaklar açısından zengindir ve enerji, altın ve doğal gaz ihracatı ekonomide önemli yer tutar.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 25.0,
+        "import": 34.0
+      },
+      {
+        "year": 2020,
+        "export": 22.0,
+        "import": 30.0
+      },
+      {
+        "year": 2021,
+        "export": 28.0,
+        "import": 36.0
+      },
+      {
+        "year": 2022,
+        "export": 32.0,
+        "import": 40.0
+      },
+      {
+        "year": 2023,
+        "export": 35.0,
+        "import": 42.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Özbekistan"
+      }
+    ],
+    "page": "ozbekistan.html"
+  },
+  {
+    "name": "Türkmenistan",
+    "continent": "Asya",
+    "capital": "Aşkabat",
+    "area": "488.100 km²",
+    "population": "7.654.000",
+    "flag": "../images/flags/turkmenistan-flag.png",
+    "map": "../images/maps/turkmenistan-map.png",
+    "generalInfo": "Türkmenistan, Orta Asya’da yer alan üniter bir cumhuriyettir. Başkenti Aşkabat’tır. Yaklaşık 6 milyon nüfusa sahiptir. Resmî dili Türkmence’dir ve para birimi Türkmenistan Manatı (TMT)’dır. Türkmenistan, zengin doğal gaz rezervleri ile ekonomik olarak önemli bir konuma sahiptir.",
+    "mapInfo": "Türkmenistan, kuzeyde Kazakistan ve Özbekistan, doğuda Özbekistan ve Afganistan, güneyde İran, batıda Hazar Denizi ile çevrilidir. Yüzölçümü yaklaşık 491.210 km²’dir. Ülke coğrafyası çoğunlukla çöl ve yarı çöl alanlarından oluşur; önemli nehirleri Amu Derya’dır.",
+    "flagMeaning": "Türkmenistan bayrağı yeşil zemin üzerinde kırmızı dikey bir şerit ve beş yıldız ile ay yıldız sembollerini içerir. Yeşil İslam’ı, kırmızı cesareti, yıldızlar ve ay ise bağımsızlığı ve ulusal birliği simgeler. Bayrak 1992 yılında kabul edilmiştir.",
+    "economyDesc": "Türkmenistan ekonomisi büyük ölçüde doğal gaz ve petrol ihracatına dayanır. Tarım sektörü pamuk ve tahıl üretimi ile önemlidir. Sanayi alanında enerji işleme, kimya ve hafif sanayi faaliyetleri öne çıkar. Hizmet sektörü ise sınırlıdır; turizm ve ticaret giderek gelişmektedir. Ülke, Orta Asya’nın enerji kaynakları açısından stratejik öneme sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 10.0,
+        "import": 6.0
+      },
+      {
+        "year": 2020,
+        "export": 9.0,
+        "import": 5.0
+      },
+      {
+        "year": 2021,
+        "export": 11.0,
+        "import": 7.0
+      },
+      {
+        "year": 2022,
+        "export": 12.0,
+        "import": 8.0
+      },
+      {
+        "year": 2023,
+        "export": 13.0,
+        "import": 9.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Türkmenistan"
+      }
+    ],
+    "page": "turkmenistan.html"
+  },
+  {
+    "name": "Azerbaycan",
+    "continent": "Asya",
+    "capital": "Bakü",
+    "area": "86.600 km²",
+    "population": "10.415.000",
+    "flag": "../images/flags/azerbaycan-flag.png",
+    "map": "../images/maps/azerbaycan-map.png",
+    "generalInfo": "Azerbaycan, Güney Kafkasya’da yer alan üniter bir cumhuriyettir. Başkenti Bakü’dür. Yaklaşık 10 milyon nüfusa sahiptir. Resmî dili Azerbaycanca’dır ve para birimi Azerbaycan Manatı (AZN)’dır. Azerbaycan, Hazar Denizi’ndeki enerji kaynakları ve petrol-gaz ihracatı ile ekonomik olarak önemli bir ülkedir.",
+    "mapInfo": "Azerbaycan, kuzeyde Rusya, kuzeybatıda Gürcistan, batıda Ermenistan ve Nahçıvan Özerk Bölgesi, güneyde İran ve doğuda Hazar Denizi ile çevrilidir. Yüzölçümü yaklaşık 86.600 km²’dir. Ülke coğrafyası dağlık ve düzlük alanlardan oluşur; önemli nehirleri Kura ve Aras’tır.",
+    "flagMeaning": "Azerbaycan bayrağı yatay üç eşit şeritten oluşur: mavi, kırmızı ve yeşil; kırmızı şeridin ortasında beyaz ay ve sekiz köşeli yıldız bulunur. Mavi Türk kimliğini, kırmızı modernleşmeyi ve demokrasiyi, yeşil İslam’ı simgeler. Ay ve yıldız ulusal birliği ve kültürel mirası temsil eder. Bayrak 1918 yılında kabul edilmiştir.",
+    "economyDesc": "Azerbaycan ekonomisi enerji kaynaklarına dayanır; petrol ve doğal gaz ihracatı ekonominin temelini oluşturur. Tarım sektörü pamuk, buğday ve meyve üretimi ile öne çıkar. Sanayi sektöründe petrokimya, inşaat malzemeleri ve gıda işleme önemlidir. Hizmet sektörü finans, ticaret ve turizm alanlarında gelişmektedir. Ülke ayrıca enerji altyapısı ve boru hatları açısından stratejik bir konuma sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 15.0,
+        "import": 10.0
+      },
+      {
+        "year": 2020,
+        "export": 14.0,
+        "import": 9.0
+      },
+      {
+        "year": 2021,
+        "export": 18.0,
+        "import": 12.0
+      },
+      {
+        "year": 2022,
+        "export": 20.0,
+        "import": 14.0
+      },
+      {
+        "year": 2023,
+        "export": 22.0,
+        "import": 15.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Azerbaycan"
+      }
+    ],
+    "page": "azerbaycan.html"
+  },
+  
+  {
+    "name": "Mısır",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Kahire",
+    "area": "1.001.450 km²",
+    "population": "118.877.000",
+    "flag": "../images/flags/misir-flag.png",
+    "map": "../images/maps/misir-map.png",
+    "generalInfo": "Mısır, Kuzey Afrika’da yer alan üniter bir cumhuriyettir. Başkenti Kahire’dir. Yaklaşık 110 milyon nüfusa sahiptir. Resmî dili Arapça’dır ve para birimi Mısır Lirası (EGP)’dır. Mısır, Afrika Birliği ve Arap Ligi üyesidir ve tarihi ile kültürel mirasıyla dünya çapında tanınır.",
+    "mapInfo": "Mısır, kuzeyde Akdeniz, doğuda Kızıldeniz ve İsrail, güneyde Sudan, batıda Libya ile çevrilidir. Yüzölçümü yaklaşık 1.010.408 km²’dir. Ülke coğrafyası çoğunlukla çöl ve Nil Nehri vadisinden oluşur. Nil Nehri, ülkenin en önemli su kaynağıdır ve tarım alanlarını besler.",
+    "flagMeaning": "Mısır bayrağı yatay üç eşit şeritten oluşur: kırmızı, beyaz ve siyah. Beyaz şeridin ortasında altın sarısı kartal yer alır. Kırmızı bağımsızlık ve devrimi, beyaz barışı ve saflığı, siyah sömürgecilikten kurtuluşu simgeler. Kartal ise güç ve ulusal birliği temsil eder. Bayrak 1984 yılında kabul edilmiştir.",
+    "economyDesc": "Mısır ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda buğday, pirinç, pamuk ve sebze üretimi önemlidir. Sanayi sektöründe petrol, doğalgaz, tekstil ve gıda işleme öne çıkar. Hizmet sektörü özellikle turizm, finans ve ulaştırma alanlarında gelişmiştir. Nil Nehri ve Süveyş Kanalı, ülke ekonomisi için stratejik öneme sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 30.0,
+        "import": 63.0
+      },
+      {
+        "year": 2020,
+        "export": 27.0,
+        "import": 50.0
+      },
+      {
+        "year": 2021,
+        "export": 35.0,
+        "import": 60.0
+      },
+      {
+        "year": 2022,
+        "export": 40.0,
+        "import": 65.0
+      },
+      {
+        "year": 2023,
+        "export": 45.0,
+        "import": 70.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Mısır"
+      }
+    ],
+    "page": "misir.html"
+  },
+  {
+    "name": "Suudi Arabistan",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Riyad",
+    "area": "2.149.690 km²",
+    "population": "34.734.000",
+    "flag": "../images/flags/suudiarabistan-flag.png",
+    "map": "../images/maps/suudiarabistan-map.png",
+    "generalInfo": "Suudi Arabistan, Orta Doğu’da yer alan mutlak monarşi ile yönetilen bir ülkedir. Başkenti Riyad’dır. Yaklaşık 36 milyon nüfusa sahiptir. Resmî dili Arapça’dır ve para birimi Suudi Riyali (SAR)’dır. Suudi Arabistan, İslam’ın doğduğu yer olması nedeniyle dini ve kültürel öneme sahiptir ve OPEC üyesidir.",
+    "mapInfo": "Suudi Arabistan, kuzeyde Ürdün ve Irak, doğuda Kuveyt, Katar, Birleşik Arap Emirlikleri ve Basra Körfezi, güneyde Umman ve Yemen ile çevrilidir. Yüzölçümü yaklaşık 2.149.690 km²’dir. Ülke coğrafyası büyük çöller, plato ve dağlık alanlardan oluşur; önemli bölgeleri Necef ve Rub’ül Hali çölleridir.",
+    "flagMeaning": "Suudi Arabistan bayrağı yeşil zemin üzerinde beyaz Arapça yazılı İslam şehadeti ve alt kısmında beyaz bir kılıç içerir. Yeşil İslam’ı ve bereketi, şehadet dini inancı ve birliği, kılıç ise adaleti ve gücü simgeler. Bayrak 1973 yılında kabul edilmiştir.",
+    "economyDesc": "Suudi Arabistan ekonomisi büyük ölçüde petrol ve doğal gaz ihracatına dayanır; enerji sektörü ekonominin temelini oluşturur. Tarım sınırlı olup hurma ve bazı tahıl üretimi yapılmaktadır. Sanayi sektöründe petrol rafinerileri ve petrokimya öne çıkar. Hizmet sektörü finans, ticaret ve turizm alanlarında gelişmektedir. Ülke, Orta Doğu’nun enerji ve ekonomik açıdan en etkili ülkelerinden biridir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 252.0,
+        "import": 104.0
+      },
+      {
+        "year": 2020,
+        "export": 193.0,
+        "import": 83.0
+      },
+      {
+        "year": 2021,
+        "export": 309.0,
+        "import": 137.0
+      },
+      {
+        "year": 2022,
+        "export": 348.0,
+        "import": 170.0
+      },
+      {
+        "year": 2023,
+        "export": 360.0,
+        "import": 180.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Suudi_Arabistan"
+      }
+    ],
+    "page": "suudiarabistan.html"
+  },
+  {
+    "name": "Birleşik Arap Emirlikleri",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Abu Dabi",
+    "area": "83.600 km²",
+    "population": "11.436.000",
+    "flag": "../images/flags/bae-flag.png",
+    "map": "../images/maps/bae-map.png",
+    "generalInfo": "Birleşik Arap Emirlikleri (BAE), Arap Yarımadası’nın doğusunda yer alan federal bir monarşidir. Başkenti Abu Dabi’dir. Yaklaşık 10 milyon nüfusa sahiptir. Resmî dili Arapça’dır ve para birimi Birleşik Arap Emirlikleri Dirhemi (AED)’dir. BAE, petrol ve doğal gaz rezervleri ile ekonomik açıdan güçlü bir ülkedir ve turizm, finans ve ticaret alanlarında da öne çıkar.",
+    "mapInfo": "BAE, kuzeyde Basra Körfezi, doğuda Umman ve Suudi Arabistan ile çevrilidir. Yüzölçümü yaklaşık 83.600 km²’dir. Ülke coğrafyası çoğunlukla çöl ve kıyı ovalarından oluşur. Önemli şehirleri Abu Dabi, Dubai, Şarja, Ajman, Umm el-Kayveyn, Ras el-Hayme ve Feylika’dır.",
+    "flagMeaning": "BAE bayrağı dört renkten oluşur: kırmızı, yeşil, beyaz ve siyah. Kırmızı cesareti ve fedakârlığı, yeşil refahı ve doğayı, beyaz barışı ve saflığı, siyah ise güç ve bağımsızlığı simgeler. Bayrak 1971 yılında, ülkenin kuruluşuyla birlikte kabul edilmiştir.",
+    "economyDesc": "BAE ekonomisi petrol ve doğal gaz ihracatına dayalıdır; enerji sektörü temel gelir kaynağıdır. Sanayi sektöründe petrokimya, inşaat ve havacılık öne çıkar. Hizmet sektörü finans, turizm, lojistik ve ticaret alanlarında güçlüdür. Dubai ve Abu Dabi, BAE’nin küresel iş ve finans merkezleri olarak öne çıkar. Ülke, yenilenebilir enerji ve altyapı yatırımlarıyla bölgesel lider konumundadır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 290.0,
+        "import": 160.0
+      },
+      {
+        "year": 2020,
+        "export": 260.0,
+        "import": 120.0
+      },
+      {
+        "year": 2021,
+        "export": 320.0,
+        "import": 180.0
+      },
+      {
+        "year": 2022,
+        "export": 350.0,
+        "import": 200.0
+      },
+      {
+        "year": 2023,
+        "export": 360.0,
+        "import": 210.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Birleşik_Arap_Emirlikleri"
+      }
+    ],
+    "page": "bae.html"
+  },
+  {
+    "name": "Gürcistan",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Tiflis",
+    "area": "69.700 km²",
+    "population": "3.806.000",
+    "flag": "../images/flags/gurcistan-flag.png",
+    "map": "../images/maps/gurcistan-map.png",
+    "generalInfo": "Gürcistan, Güney Kafkasya’da yer alan üniter bir cumhuriyettir. Başkenti Tiflis’tir. Yaklaşık 3,7 milyon nüfusa sahiptir. Resmî dili Gürcüce’dir ve para birimi Gürcü Larisi (GEL)’dir. Gürcistan, stratejik konumu, tarihi İpek Yolu bağlantıları ve kültürel mirası ile bilinir.",
+    "mapInfo": "Gürcistan, kuzeyde Rusya, doğuda Azerbaycan, güneyde Ermenistan ve Türkiye ile çevrilidir; batısında Karadeniz’e kıyısı vardır. Yüzölçümü yaklaşık 69.700 km²’dir. Ülke coğrafyası dağlık ve vadilerden oluşur; Büyük Kafkas Dağları kuzey sınırını oluşturur. Önemli nehirleri Kura ve Rioni’dir.",
+    "flagMeaning": "Gürcistan bayrağı beyaz zemin üzerinde büyük kırmızı bir haç ve dört küçük kırmızı haçtan oluşur. Büyük haç Hristiyanlığı, küçük haçlar ise tarihi krallıkları simgeler. Bayrak 2004 yılında resmî olarak kabul edilmiştir ve ülkenin ulusal sembolüdür.",
+    "economyDesc": "Gürcistan ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda üzümsü meyveler, tütün ve çay üretimi önemlidir. Sanayi sektöründe gıda işleme, alüminyum ve hafif sanayi öne çıkar. Hizmet sektörü turizm, finans ve lojistik alanlarında gelişmiştir. Gürcistan, stratejik konumu ve limanları ile bölgesel ticarette önemli bir role sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 3.5,
+        "import": 10.0
+      },
+      {
+        "year": 2020,
+        "export": 3.0,
+        "import": 8.0
+      },
+      {
+        "year": 2021,
+        "export": 4.0,
+        "import": 11.0
+      },
+      {
+        "year": 2022,
+        "export": 4.5,
+        "import": 12.0
+      },
+      {
+        "year": 2023,
+        "export": 5.0,
+        "import": 13.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Gürcistan"
+      }
+    ],
+    "page": "gurcistan.html"
+  },
+  {
+    "name": "Ermenistan",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Erivan",
+    "area": "29.743 km²",
+    "population": "2.946.000",
+    "flag": "../images/flags/ermenistan-flag.png",
+    "map": "../images/maps/ermenistan-map.png",
+    "generalInfo": "Ermenistan, Güney Kafkasya’da yer alan üniter bir cumhuriyettir. Başkenti Erivan’dır. Yaklaşık 3 milyon nüfusa sahiptir. Resmî dili Ermenice’dir ve para birimi Ermeni Dramı (AMD)’dır. Ermenistan, tarihi ve kültürel mirasıyla tanınır ve Hristiyanlığı kabul eden ilk devletlerden biridir.",
+    "mapInfo": "Ermenistan, kuzeyde Gürcistan, doğuda Azerbaycan, güneyde İran ve batıda Türkiye ile çevrilidir. Yüzölçümü yaklaşık 29.743 km²’dir. Ülke coğrafyası dağlık ve platolardan oluşur; önemli nehirleri Aras ve Hrazdan’dır. Büyük göller arasında Sevan Gölü öne çıkar.",
+    "flagMeaning": "Ermenistan bayrağı yatay üç eşit şeritten oluşur: kırmızı, mavi ve turuncu. Kırmızı ulusun cesaretini ve tarihsel mücadeleleri, mavi barışı ve gökyüzünü, turuncu ise üretkenliği ve cesareti simgeler. Bayrak 1990 yılında kabul edilmiştir ve ülkenin ulusal sembolüdür.",
+    "economyDesc": "Ermenistan ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda buğday, meyve ve sebze üretimi öne çıkar. Sanayi sektöründe gıda işleme, alüminyum ve madencilik öne çıkar. Hizmet sektörü özellikle turizm ve finans alanlarında gelişmektedir. Ülke, doğal kaynakları ve tarihi mirası ile bölgesel ekonomi için önemlidir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 2.0,
+        "import": 4.0
+      },
+      {
+        "year": 2020,
+        "export": 1.8,
+        "import": 3.5
+      },
+      {
+        "year": 2021,
+        "export": 2.5,
+        "import": 5.0
+      },
+      {
+        "year": 2022,
+        "export": 3.0,
+        "import": 5.5
+      },
+      {
+        "year": 2023,
+        "export": 3.2,
+        "import": 5.8
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Ermenistan"
+      }
+    ],
+    "page": "ermenistan.html"
+  },
+  {
+    "name": "Kuzey Kıbrıs Türk Cumhuriyeti",
+    "continent": "Orta Doğu ve Kuzey Afrika",
+    "capital": "Lefkoşa",
+    "area": "3.355 km²",
+    "population": "483.000",
+    "flag": "../images/flags/kktc-flag.png",
+    "map": "../images/maps/kktc-map.png",
+    "generalInfo": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC), Kıbrıs Adası’nın kuzeyinde yer alan de facto bağımsız bir devlettir. Başkenti Lefkoşa’dır. Yaklaşık 330 bin nüfusa sahiptir. Resmî dili Türkçe’dir ve para birimi Türk Lirası (TRY)’dır. KKTC, yalnızca Türkiye tarafından tanınmakta olup, uluslararası alanda Kıbrıs Cumhuriyeti’nin bir parçası olarak kabul edilmektedir.",
+    "mapInfo": "KKTC, kuzeyde Akdeniz, güneyde Kıbrıs Cumhuriyeti ile çevrilidir. Yüzölçümü yaklaşık 3.355 km²’dir. Ülke coğrafyası dağlık ve platolardan oluşur; önemli dağları Beşparmak Dağları’dır. Kıyı şeridi uzun ve turizm açısından değerlidir.",
+    "flagMeaning": "KKTC bayrağı beyaz zemin üzerinde kırmızı bir ay ve yıldız ile iki kırmızı yatay şeritten oluşur. Kırmızı ay ve yıldız Türkiye ile olan kültürel ve tarihi bağı simgeler; beyaz barışı ve saflığı temsil eder. Bayrak 1984 yılında kabul edilmiştir.",
+    "economyDesc": "KKTC ekonomisi hizmet sektörü ağırlıklıdır; turizm, eğitim ve inşaat sektörü önemli gelir kaynaklarıdır. Tarımda narenciye, zeytin ve nar öne çıkar. Sanayi sektörü sınırlıdır; gıda işleme ve hafif sanayi faaliyetleri bulunur. Türkiye’den ekonomik ve mali destek, KKTC ekonomisinin önemli bir parçasıdır.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 0.2,
+        "import": 1.0
+      },
+      {
+        "year": 2020,
+        "export": 0.15,
+        "import": 0.9
+      },
+      {
+        "year": 2021,
+        "export": 0.25,
+        "import": 1.1
+      },
+      {
+        "year": 2022,
+        "export": 0.28,
+        "import": 1.2
+      },
+      {
+        "year": 2023,
+        "export": 0.3,
+        "import": 1.3
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Kuzey_Kıbrıs_Türk_Cumhuriyeti"
+      }
+    ],
+    "page": "kkTC.html"
+  },
+  {
+    "name": "Amerika Birleşik Devletleri",
+    "continent": "Kuzey ve Güney Amerika",
+    "capital": "Washington, D.C.",
+    "area": "9.833.517 km²",
+    "population": "347.790.000",
+    "flag": "../images/flags/abd-flag.png",
+    "map": "../images/maps/abd-map.png",
+    "generalInfo": "Amerika Birleşik Devletleri (ABD), Kuzey Amerika kıtasında yer alan federal bir cumhuriyettir. Başkenti Washington, D.C.’dir. Yaklaşık 332 milyon nüfusa sahiptir. Resmî dili yoktur ancak İngilizce yaygın olarak kullanılır. Para birimi Amerikan Doları (USD)’dır. ABD, BM, NATO ve G7 üyesidir ve küresel ekonomi, teknoloji, kültür ve askeri alanda lider ülkelerden biridir.",
+    "mapInfo": "ABD, kuzeyde Kanada, doğuda Atlas Okyanusu, güneyde Meksika ve Meksika Körfezi, batıda Pasifik Okyanusu ile çevrilidir. Yüzölçümü yaklaşık 9.525.067 km²’dir. Ülke coğrafyası büyük ovalar, dağlar, göller ve nehirlerden oluşur; Büyük Göller, Mississippi Nehri ve Rocky Dağları öne çıkar.",
+    "flagMeaning": "ABD bayrağı kırmızı ve beyaz yatay 13 şerit ile mavi kare içinde 50 beyaz yıldızdan oluşur. 13 şerit, ilk 13 koloniyi; 50 yıldız ise mevcut eyaletleri simgeler. Kırmızı cesareti ve gücü, beyaz saflığı ve masumiyeti, mavi ise adalet ve kararlılığı temsil eder. Bayrak 1777 yılında kabul edilmiştir.",
+    "economyDesc": "ABD ekonomisi dünyanın en büyük ekonomisidir ve hizmet, sanayi ve tarım sektörlerine dayanır. Sanayi alanında teknoloji, otomotiv, savunma ve havacılık öne çıkar. Tarımda mısır, soya, buğday ve et üretimi önemlidir. Hizmet sektörü finans, telekomünikasyon, sağlık ve turizm alanlarında liderdir. ABD, inovasyon ve Ar-Ge yatırımlarıyla küresel ekonomik ve teknolojik liderliğini sürdürmektedir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 1500.0,
+        "import": 2500.0
+      },
+      {
+        "year": 2020,
+        "export": 1400.0,
+        "import": 2200.0
+      },
+      {
+        "year": 2021,
+        "export": 1600.0,
+        "import": 2600.0
+      },
+      {
+        "year": 2022,
+        "export": 1700.0,
+        "import": 2800.0
+      },
+      {
+        "year": 2023,
+        "export": 1750.0,
+        "import": 2850.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Amerika_Birleşik_Devletleri"
+      }
+    ],
+    "page": "abd.html"
+  },
+  {
+    "name": "Kanada",
+    "continent": "Kuzey ve Güney Amerika",
+    "capital": "Ottawa",
+    "area": "9.984.670 km²",
+    "population": "40.234.000",
+    "flag": "../images/flags/kanada-flag.png",
+    "map": "../images/maps/kanada-map.png",
+    "generalInfo": "Kanada, Kuzey Amerika’da yer alan federal anayasal monarşi ile yönetilen bir ülkedir. Başkenti Ottawa’dır. Yaklaşık 39 milyon nüfusa sahiptir. Resmî dilleri İngilizce ve Fransızca’dır. Para birimi Kanada Doları (CAD)’dır. Kanada, BM, G7 ve NATO üyesidir ve doğal kaynakları, geniş alanları ve yüksek yaşam standartları ile tanınır.",
+    "mapInfo": "Kanada, kuzeyde Arktik Okyanusu, doğuda Atlas Okyanusu, güneyde ABD ve batıda Pasifik Okyanusu ile çevrilidir. Yüzölçümü yaklaşık 9.984.670 km²’dir. Ülke coğrafyası dağlar, göller, nehirler ve büyük orman alanlarından oluşur; Rocky Dağları ve Büyük Göller öne çıkar.",
+    "flagMeaning": "Kanada bayrağı kırmızı kenarlar ve ortasında beyaz zemin üzerinde kırmızı bir akçaağaç yaprağı içerir. Kırmızı cesareti ve gücü, beyaz barışı ve saflığı, akçaağaç yaprağı ise ulusal birliği ve doğayı simgeler. Bayrak 1965 yılında kabul edilmiştir.",
+    "economyDesc": "Kanada ekonomisi gelişmiş ve çeşitlenmiş bir yapıya sahiptir. Sanayi, hizmet ve doğal kaynak sektörü ekonominin temelini oluşturur. Sanayi alanında otomotiv, havacılık, makine ve enerji öne çıkar. Tarımda buğday, kanola ve süt ürünleri önemlidir. Hizmet sektörü finans, turizm ve teknoloji alanlarında güçlüdür. Kanada, enerji ve doğal kaynak ihracatı ile küresel ekonomide önemli bir role sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 400.0,
+        "import": 420.0
+      },
+      {
+        "year": 2020,
+        "export": 350.0,
+        "import": 360.0
+      },
+      {
+        "year": 2021,
+        "export": 430.0,
+        "import": 450.0
+      },
+      {
+        "year": 2022,
+        "export": 460.0,
+        "import": 480.0
+      },
+      {
+        "year": 2023,
+        "export": 470.0,
+        "import": 490.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Kanada"
+      }
+    ],
+    "page": "kanada.html"
+  },
+  {
+    "name": "Brezilya",
+    "continent": "Kuzey ve Güney Amerika",
+    "capital": "Brasília",
+    "area": "8.515.767 km²",
+    "population": "213.038.000",
+    "flag": "../images/flags/brezilya-flag.png",
+    "map": "../images/maps/brezilya-map.png",
+    "generalInfo": "Brezilya, Güney Amerika’da yer alan federal cumhuriyettir. Başkenti Brasília’dır. Yaklaşık 216 milyon nüfusa sahiptir. Resmî dili Portekizce’dir ve para birimi Brezilya Reali (BRL)’dir. Brezilya, Güney Amerika’nın en büyük ülkesi olup, tarım, sanayi ve hizmet sektörlerinde bölgesel bir ekonomik liderdir.",
+    "mapInfo": "Brezilya, kuzeyde Venezuela, Guyana, Surinam ve Fransız Guyanası, batıda Kolombiya, Peru, Bolivya ve Paraguay, güneyde Arjantin ve Uruguay ile çevrilidir; doğuda Atlas Okyanusu’na kıyısı vardır. Yüzölçümü yaklaşık 8.515.767 km²’dir. Ülke coğrafyası Amazon yağmur ormanları, Pantanal bataklıkları, yaylalar ve dağlık bölgelerden oluşur. Önemli nehirleri Amazon, São Francisco ve Paraná’dır.",
+    "flagMeaning": "Brezilya bayrağı yeşil zemin üzerinde sarı bir elmas ve içinde mavi bir küre içerir; kürenin üzerinde beyaz bir bantta 'Ordem e Progresso' (Düzen ve İlerleme) yazısı vardır. Yeşil bitki örtüsünü, sarı zenginliği ve mavi gökyüzünü temsil eder. Slogan ulusal ilerleme ve düzeni simgeler. Bayrak 1889 yılında kabul edilmiştir.",
+    "economyDesc": "Brezilya ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda kahve, soya, şeker kamışı ve et üretimi öne çıkar. Sanayi sektöründe otomotiv, havacılık, tekstil ve gıda işleme faaliyetleri yaygındır. Hizmet sektörü turizm, finans ve ticaret alanlarında ekonominin büyük kısmını oluşturur. Brezilya, doğal kaynakları ve biyolojik çeşitliliği ile ekonomik açıdan önemli bir ülkedir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 220.0,
+        "import": 190.0
+      },
+      {
+        "year": 2020,
+        "export": 210.0,
+        "import": 170.0
+      },
+      {
+        "year": 2021,
+        "export": 250.0,
+        "import": 200.0
+      },
+      {
+        "year": 2022,
+        "export": 280.0,
+        "import": 230.0
+      },
+      {
+        "year": 2023,
+        "export": 300.0,
+        "import": 250.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Brezilya"
+      }
+    ],
+    "page": "brezilya.html"
+},
+
+  {
+    "name": "Meksika",
+    "continent": "Kuzey ve Güney Amerika",
+    "capital": "Mexico City",
+    "area": "1.964.375 km²",
+    "population": "132.249.000",
+    "flag": "../images/flags/meksika-flag.png",
+    "map": "../images/maps/meksika-map.png",
+    "generalInfo": "Meksika, Kuzey Amerika’da yer alan federal bir cumhuriyettir. Başkenti Mexico City’dir. Yaklaşık 129 milyon nüfusa sahiptir. Resmî dili İspanyolca’dır ve para birimi Meksika Pezosu (MXN)’dur. Meksika, zengin kültürel mirası, tarihi şehirleri ve doğal kaynakları ile bilinir.",
+    "mapInfo": "Meksika, kuzeyde ABD, güneydoğuda Guatemala ve Belize ile çevrilidir; batıda Pasifik Okyanusu, doğuda ise Meksika Körfezi ve Karayip Denizi’ne kıyısı vardır. Yüzölçümü yaklaşık 1.964.375 km²’dir. Ülke coğrafyası dağlar, yaylalar, çöller ve tropik bölgelerden oluşur. Önemli nehirleri Rio Grande, Lerma ve Usumacinta’dır.",
+    "flagMeaning": "Meksika bayrağı dikey yeşil, beyaz ve kırmızı şeritlerden oluşur; ortadaki beyaz şeritte milli arma bulunur. Yeşil bağımsızlık ve umut, beyaz birlik ve barış, kırmızı ise kahramanlık ve kanı simgeler. Arma içinde bir kartal, yılanı gagasında tutarken kaktüs üzerinde durur ve Aztek mitolojisine dayanmaktadır. Bayrak 1968 yılında kabul edilmiştir.",
+    "economyDesc": "Meksika ekonomisi sanayi, tarım ve hizmet sektörlerine dayanır. Sanayi alanında otomotiv, elektronik, gıda işleme ve petrol rafinerileri öne çıkar. Tarımda mısır, buğday, fasulye ve tropik meyveler önemlidir. Hizmet sektörü turizm, finans ve ticaret alanlarında gelişmiştir. Meksika, Kuzey Amerika serbest ticaret anlaşmaları ve doğal kaynakları ile ekonomik açıdan bölgesel bir güçtür.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 450.0,
+        "import": 500.0
+      },
+      {
+        "year": 2020,
+        "export": 400.0,
+        "import": 420.0
+      },
+      {
+        "year": 2021,
+        "export": 480.0,
+        "import": 520.0
+      },
+      {
+        "year": 2022,
+        "export": 500.0,
+        "import": 540.0
+      },
+      {
+        "year": 2023,
+        "export": 510.0,
+        "import": 550.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Meksika"
+      }
+    ],
+    "page": "meksika.html"
+  },
+  {
+    "name": "Arjantin",
+    "continent": "Kuzey ve Güney Amerika",
+    "capital": "Buenos Aires",
+    "area": "2.780.400 km²",
+    "population": "45.895.000",
+    "flag": "../images/flags/arjantin-flag.png",
+    "map": "../images/maps/arjantin-map.png",
+    "generalInfo": "Arjantin, Güney Amerika’da yer alan federal bir cumhuriyettir. Başkenti Buenos Aires’tir. Yaklaşık 46 milyon nüfusa sahiptir. Resmî dili İspanyolca’dır ve para birimi Arjantin Pesosu (ARS)’dır. Arjantin, geniş tarım alanları, doğal kaynakları ve kültürel mirası ile tanınır.",
+    "mapInfo": "Arjantin, kuzeyde Bolivya ve Paraguay, kuzeydoğuda Brezilya, doğuda Uruguay ve Atlas Okyanusu, batıda Şili ile çevrilidir. Yüzölçümü yaklaşık 2.780.400 km²’dir. Ülke coğrafyası dağlar, pampalar, platolar ve Patagonya bölgesinden oluşur. Önemli nehirleri Paraná, Uruguay ve Colorado’dur.",
+    "flagMeaning": "Arjantin bayrağı yatay üç eşit şeritten oluşur: açık mavi, beyaz ve açık mavi; ortada sarı güneş sembolü bulunur. Açık mavi gökyüzünü, beyaz barışı ve saflığı, güneş ise özgürlüğü ve bağımsızlığı simgeler. Bayrak 1818 yılında kabul edilmiştir.",
+    "economyDesc": "Arjantin ekonomisi tarım, sanayi ve hizmet sektörlerine dayanır. Tarımda soya, buğday, mısır ve et üretimi öne çıkar. Sanayi sektöründe gıda işleme, otomotiv ve kimya öne çıkar. Hizmet sektörü finans, turizm ve ticaret alanlarında gelişmiştir. Arjantin, doğal kaynakları ve geniş tarım alanları ile Güney Amerika’da önemli bir ekonomik güce sahiptir.",
+    "economyData": [
+      {
+        "year": 2019,
+        "export": 65.0,
+        "import": 68.0
+      },
+      {
+        "year": 2020,
+        "export": 45.0,
+        "import": 55.0
+      },
+      {
+        "year": 2021,
+        "export": 70.0,
+        "import": 80.0
+      },
+      {
+        "year": 2022,
+        "export": 75.0,
+        "import": 85.0
+      },
+      {
+        "year": 2023,
+        "export": 78.0,
+        "import": 88.0
+      }
+    ],
+    "source": [
+      {
+        "name": "Wikipedia",
+        "link": "https://tr.wikipedia.org/wiki/Arjantin"
+      }
+    ],
+    "page": "arjantin.html"
+  }
+]

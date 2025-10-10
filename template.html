@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{name}} - Ülke Bilgileri (2025)</title>
+  <link rel="stylesheet" href="../css/country.css">
+</head>
+<body>
+
+<header>
+  <h1>{{name}}</h1>
+  <a href="../index.html" class="btn">← Ana Sayfaya Dön</a>
+</header>
+
+<main>
+  <section class="general-info">
+    <h2>Genel Bilgiler</h2>
+    <p class="intro-text">{{generalInfo}}</p>
+    <p class="map-info">{{mapInfo}}</p>
+
+    <div class="country-details">
+      <p><strong>Başkent:</strong> {{capital}}</p>
+      <p><strong>Kıta:</strong> {{continent}}</p>
+      <p><strong>Yüzölçümü:</strong> {{area}}</p>
+      <p><strong>Nüfus (2025):</strong> {{population}}</p>
+    </div>
+
+    <div class="flag-box">
+      <img src="{{flag}}" alt="{{name}} Bayrağı">
+      <p><strong>Bayrak Anlamı:</strong> {{flagMeaning}}</p>
+    </div>
+
+    <div class="map-box">
+      <h3>{{name}} Haritası</h3>
+      <img src="{{map}}" alt="{{name}} Haritası" class="map">
+    </div>
+  </section>
+
+  <section class="economy">
+    <h2>Ekonomi</h2>
+    <p>{{economyDesc}}</p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Yıl</th>
+          <th>İhracat (Milyar $)</th>
+          <th>İthalat (Milyar $)</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each economyData}}
+        <tr>
+          <td>{{year}}</td>
+          <td>{{export}}</td>
+          <td>{{import}}</td>
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+
+    <p class="source">
+      <em>
+        {{#each source}}
+          <a href="{{link}}" target="_blank">{{name}}</a>{{#unless @last}}, {{/unless}}
+        {{/each}}
+      </em>
+    </p>
+  </section>
+</main>
+
+<footer>
+  <p>© 2025 Ülkeler Bilgi Portalı | Hazırlayan: Doğan Berk</p>
+</footer>
+
+<div id="lightbox" class="hidden">
+  <span id="close">&times;</span>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script src="../js/lightbox.js"></script>
+</body>
+</html>
